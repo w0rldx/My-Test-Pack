@@ -1,0 +1,18 @@
+
+#General config
+[general]
+	#Enable image embeds (png, jpg, jpeg)
+	enableImageEmbeds = true
+	#Enable animated image embeds (gif)
+	enableAnimatedImageEmbeds = true
+	#Enable text embeds (Work in progress)
+	enableTextEmbeds = false
+	#Max width of image embeds
+	#Range: 0 ~ 320
+	chatImageEmbedMaxWidth = 300
+	#Max height of image embeds
+	#Range: 0 ~ 320
+	chatImageEmbedMaxHeight = 100
+	#Remove the message containing the original url when embedding.
+	removeUrlMessage = true
+

@@ -1,0 +1,7 @@
+
+#Voice Server configuration settings
+[server]
+	#The udp port the voice chat server is listening on. This port with the ip the client connects to must be exposed in the firewall!
+	#Range: 0 ~ 65535
+	port = 25566
+

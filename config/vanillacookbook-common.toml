@@ -1,0 +1,8 @@
+
+#Enable/Disable Recipes
+[compat]
+	#Disable recipes for duplicate/similar items to Farmer's Delight? (Default: false)
+	hideFDitems = false
+	#Disable recipes for duplicate/similar items to Neapolitan? (Default: false)
+	hideNPitems = false
+

@@ -1,0 +1,8 @@
+#Should the discord integration be active?
+active = false
+#Token of your Discord bot:
+bot_token = "INSERT BOT TOKEN HERE"
+#Channel ID where the bot will be working
+#Range: 0 ~ 9223372036854775807
+channel_id = 0
+

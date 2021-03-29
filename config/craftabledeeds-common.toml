@@ -1,0 +1,5 @@
+#Whether the deed needs to be in an item frame inside the claimed area for the claim to be valid
+requireItemFrames = true
+#Whether opening blocks (like furnaces and chests) is allowed inside other players' claims
+allowOpeningBlocks = false
+
