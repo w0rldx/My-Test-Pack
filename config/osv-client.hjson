@@ -5,9 +5,6 @@
     overlaysFromRP: false
      # Indicates whether to enable shading in generated block models.
     shadeOverlays: true
-     # Any model names listed here will be shaded or not, opposite of the
-     # global setting.
-    shadeOverrides: []
      # Whether textures should use variable opacity to push and pull the
      # background sprite.
     enableShadedTextures: true

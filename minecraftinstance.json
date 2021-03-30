@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-03-30T16:30:20.9366519Z",
+  "lastPlayed": "2021-03-30T16:48:39.6427848Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.5",
@@ -1537,7 +1537,7 @@
   "name": "Better Minecraft WorlDs Edition",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-03-30T03:31:51.8834998Z",
+  "lastPreviousMatchUpdate": "2021-03-30T16:47:21.8411696Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -1807,16 +1807,16 @@
       "addonID": 377572,
       "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
       "installedFile": {
-        "id": 3185281,
-        "displayName": "HerdMentality-1.16.5-6.0.1.jar",
-        "fileName": "HerdMentality-1.16.5-6.0.1.jar",
-        "fileDate": "2021-01-29T06:16:55.55Z",
-        "fileLength": 5639,
+        "id": 3254796,
+        "displayName": "HerdMentality-1.16.5-6.0.2.jar",
+        "fileName": "HerdMentality-1.16.5-6.0.2.jar",
+        "fileDate": "2021-03-29T15:51:42.98Z",
+        "fileLength": 8559,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3185/281/HerdMentality-1.16.5-6.0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3254/796/HerdMentality-1.16.5-6.0.2.jar",
         "isAlternate": false,
-        "alternateFileId": 3185282,
+        "alternateFileId": 3254797,
         "dependencies": [
           {
             "id": 0,
@@ -1829,13 +1829,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1534277406,
+            "fingerprint": 3465306237,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1510015062,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 4254207880,
+            "fingerprint": 1443004776,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1846,7 +1852,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1414043063,
+        "packageFingerprint": 3420656789,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -1860,12 +1866,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "HerdMentality-1.16.5-6.0.1.jar"
+        "FileNameOnDisk": "HerdMentality-1.16.5-6.0.2.jar"
       },
       "dateInstalled": "2021-03-29T13:28:13.4116985Z",
-      "dateUpdated": "2021-03-29T13:28:13.4116985Z",
-      "dateLastUpdateAttempted": "2021-03-29T13:28:13.4116985Z",
-      "status": 3,
+      "dateUpdated": "2021-03-30T16:44:02.0460606Z",
+      "dateLastUpdateAttempted": "2021-03-30T16:44:02.0460606Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2765,7 +2771,7 @@
       "dateInstalled": "2021-03-29T13:28:22.876664Z",
       "dateUpdated": "2021-03-29T13:28:22.8776649Z",
       "dateLastUpdateAttempted": "2021-03-29T13:28:22.8776649Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6700,14 +6706,14 @@
       "addonID": 446017,
       "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
       "installedFile": {
-        "id": 3250772,
-        "displayName": "Vanilla Stacked Dimensions - Warden Edition 6.0.jar",
-        "fileName": "Vanilla Stacked Dimensions - Warden Edition 6.0.jar",
-        "fileDate": "2021-03-25T14:12:15.063Z",
-        "fileLength": 6739674,
+        "id": 3254719,
+        "displayName": "Vanilla Stacked Dimensions Warden Edition 6.1.jar",
+        "fileName": "Vanilla Stacked Dimensions Warden Edition 6.1.jar",
+        "fileDate": "2021-03-29T14:04:37.37Z",
+        "fileLength": 6739712,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3250/772/Vanilla Stacked Dimensions - Warden Edition 6.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3254/719/Vanilla Stacked Dimensions Warden Edition 6.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -6721,7 +6727,7 @@
           },
           {
             "foldername": "com",
-            "fingerprint": 632870935,
+            "fingerprint": 3735524549,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6744,7 +6750,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2537957065,
+        "packageFingerprint": 2781786811,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -6760,12 +6766,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Vanilla Stacked Dimensions - Warden Edition 6.0.jar"
+        "FileNameOnDisk": "Vanilla Stacked Dimensions Warden Edition 6.1.jar"
       },
       "dateInstalled": "2021-03-29T13:29:04.7263112Z",
-      "dateUpdated": "2021-03-29T13:29:04.7303109Z",
-      "dateLastUpdateAttempted": "2021-03-29T13:29:04.7303109Z",
-      "status": 3,
+      "dateUpdated": "2021-03-30T16:44:12.4781693Z",
+      "dateLastUpdateAttempted": "2021-03-30T16:44:12.4781693Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8106,28 +8112,28 @@
       "addonID": 353434,
       "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
       "installedFile": {
-        "id": 3181436,
-        "displayName": "BetterBurning-1.16.5-6.0.2.jar",
-        "fileName": "BetterBurning-1.16.5-6.0.2.jar",
-        "fileDate": "2021-01-25T23:26:55.323Z",
-        "fileLength": 9245,
+        "id": 3254823,
+        "displayName": "BetterBurning-1.16.5-6.0.3.jar",
+        "fileName": "BetterBurning-1.16.5-6.0.3.jar",
+        "fileDate": "2021-03-29T16:22:35.52Z",
+        "fileLength": 9748,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3181/436/BetterBurning-1.16.5-6.0.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3254/823/BetterBurning-1.16.5-6.0.3.jar",
         "isAlternate": false,
-        "alternateFileId": 3181437,
+        "alternateFileId": 3254824,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3047714449,
+            "fingerprint": 3021094095,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 4098999626,
+            "fingerprint": 1382508688,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8138,7 +8144,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1818929532,
+        "packageFingerprint": 799010744,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -8152,12 +8158,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "BetterBurning-1.16.5-6.0.2.jar"
+        "FileNameOnDisk": "BetterBurning-1.16.5-6.0.3.jar"
       },
       "dateInstalled": "2021-03-29T13:29:27.2992563Z",
-      "dateUpdated": "2021-03-29T13:29:27.3202559Z",
-      "dateLastUpdateAttempted": "2021-03-29T13:29:27.3202559Z",
-      "status": 3,
+      "dateUpdated": "2021-03-30T16:43:55.9338506Z",
+      "dateLastUpdateAttempted": "2021-03-30T16:43:55.9338506Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8249,14 +8255,14 @@
       "addonID": 287538,
       "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
       "installedFile": {
-        "id": 3187282,
-        "displayName": "Ore Stone Variants-5.11.jar",
-        "fileName": "Ore Stone Variants-5.11.jar",
-        "fileDate": "2021-01-31T02:53:43.38Z",
-        "fileLength": 356234,
+        "id": 3235243,
+        "displayName": "Ore Stone Variants-6.1.jar",
+        "fileName": "Ore Stone Variants-6.1.jar",
+        "fileDate": "2021-03-11T02:42:35.517Z",
+        "fileLength": 463433,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3187/282/Ore Stone Variants-5.11.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3235/243/Ore Stone Variants-6.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8264,31 +8270,31 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 769207725,
+            "fingerprint": 1193753272,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1357443626,
+            "fingerprint": 3205152196,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 1983205954,
+            "fingerprint": 3268620038,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 413289530,
+            "fingerprint": 436390981,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 3380797652,
+            "fingerprint": 2523877333,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8305,10 +8311,9 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2137904662,
+        "packageFingerprint": 1078291983,
         "gameVersion": [
           "1.16.5",
-          "Forge",
           "1.16.4"
         ],
         "hasInstallScript": false,
@@ -8317,15 +8322,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Ore Stone Variants-5.11.jar"
+        "FileNameOnDisk": "Ore Stone Variants-6.1.jar"
       },
       "dateInstalled": "2021-03-29T13:29:29.1729882Z",
-      "dateUpdated": "2021-03-29T13:29:29.1739881Z",
-      "dateLastUpdateAttempted": "2021-03-29T13:29:29.1739881Z",
-      "status": 3,
+      "dateUpdated": "2021-03-30T16:44:07.9946681Z",
+      "dateLastUpdateAttempted": "2021-03-30T16:44:07.9946681Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9767,24 +9772,6 @@
       "dateUpdated": "2021-03-29T13:29:42.6783932Z",
       "dateLastUpdateAttempted": "2021-03-29T13:29:42.6783932Z",
       "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 416089,
-      "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
-      "installedFile": null,
-      "dateInstalled": "2021-03-29T13:29:49.9823482Z",
-      "dateUpdated": "2021-03-29T13:29:49.9843466Z",
-      "dateLastUpdateAttempted": "2021-03-29T13:29:49.9843466Z",
-      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16297,14 +16284,14 @@
       "addonID": 238891,
       "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
       "installedFile": {
-        "id": 3208542,
-        "displayName": "DynamicSurroundings-1.16.4-4.0.3.10.jar",
-        "fileName": "DynamicSurroundings-1.16.4-4.0.3.10.jar",
-        "fileDate": "2021-02-18T16:10:43.727Z",
-        "fileLength": 14848607,
+        "id": 3248516,
+        "displayName": "DynamicSurroundings-1.16.4-4.0.4.1.jar",
+        "fileName": "DynamicSurroundings-1.16.4-4.0.4.1.jar",
+        "fileDate": "2021-03-23T03:19:31.387Z",
+        "fileLength": 14848383,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3208/542/DynamicSurroundings-1.16.4-4.0.3.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3248/516/DynamicSurroundings-1.16.4-4.0.4.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -16319,7 +16306,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1801643152,
+            "fingerprint": 1927851991,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -16367,7 +16354,7 @@
           },
           {
             "foldername": "org",
-            "fingerprint": 4133266500,
+            "fingerprint": 195421485,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -16378,7 +16365,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2425767861,
+        "packageFingerprint": 336728332,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -16393,12 +16380,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "DynamicSurroundings-1.16.4-4.0.3.10.jar"
+        "FileNameOnDisk": "DynamicSurroundings-1.16.4-4.0.4.1.jar"
       },
       "dateInstalled": "2021-03-29T13:31:37.7955118Z",
-      "dateUpdated": "2021-03-29T13:31:37.8045108Z",
-      "dateLastUpdateAttempted": "2021-03-29T13:31:37.8045108Z",
-      "status": 3,
+      "dateUpdated": "2021-03-30T16:44:00.3593011Z",
+      "dateLastUpdateAttempted": "2021-03-30T16:44:00.3593011Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -17134,9 +17121,9 @@
         "isServerPack": false,
         "FileNameOnDisk": "Croptopia-1.16.4-FORGE-1.3.1.jar"
       },
-      "dateInstalled": "2021-03-29T13:31:47.8359004Z",
-      "dateUpdated": "2021-03-29T13:31:47.8389031Z",
-      "dateLastUpdateAttempted": "2021-03-29T13:31:47.8389031Z",
+      "dateInstalled": "2021-03-30T16:48:30.353189Z",
+      "dateUpdated": "2021-03-30T16:48:30.3561898Z",
+      "dateLastUpdateAttempted": "2021-03-30T16:48:30.3561898Z",
       "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -17146,7 +17133,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 357362,
@@ -17222,85 +17209,6 @@
       "dateInstalled": "2021-03-29T13:31:48.3213487Z",
       "dateUpdated": "2021-03-29T13:31:48.3223503Z",
       "dateLastUpdateAttempted": "2021-03-29T13:31:48.3223503Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 280294,
-      "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
-      "installedFile": {
-        "id": 3103648,
-        "displayName": "FpsReducer-mc1.16.4-1.18.jar",
-        "fileName": "FpsReducer-mc1.16.4-1.18.jar",
-        "fileDate": "2020-11-06T11:18:32.81Z",
-        "fileLength": 90519,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3103/648/FpsReducer-mc1.16.4-1.18.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2378764151,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "bre2el",
-            "fingerprint": 1662607404,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2000598392,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fpsreducer_logo.png",
-            "fingerprint": 2600135182,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 419585142,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3694289947,
-        "gameVersion": [
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "FpsReducer-mc1.16.4-1.18.jar"
-      },
-      "dateInstalled": "2021-03-29T13:31:49.5617609Z",
-      "dateUpdated": "2021-03-29T13:31:49.5637638Z",
-      "dateLastUpdateAttempted": "2021-03-29T13:31:49.5637638Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -17413,10 +17321,89 @@
         "isServerPack": false,
         "FileNameOnDisk": "antiqueatlas-5.4.4-forge.jar"
       },
-      "dateInstalled": "2021-03-29T13:31:49.0558105Z",
-      "dateUpdated": "2021-03-29T13:31:49.0578124Z",
-      "dateLastUpdateAttempted": "2021-03-29T13:31:49.0578124Z",
+      "dateInstalled": "2021-03-30T16:47:18.6936163Z",
+      "dateUpdated": "2021-03-30T16:47:18.6966155Z",
+      "dateLastUpdateAttempted": "2021-03-30T16:47:18.6966155Z",
       "status": 3,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 280294,
+      "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
+      "installedFile": {
+        "id": 3103648,
+        "displayName": "FpsReducer-mc1.16.4-1.18.jar",
+        "fileName": "FpsReducer-mc1.16.4-1.18.jar",
+        "fileDate": "2020-11-06T11:18:32.81Z",
+        "fileLength": 90519,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3103/648/FpsReducer-mc1.16.4-1.18.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2378764151,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "bre2el",
+            "fingerprint": 1662607404,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2000598392,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fpsreducer_logo.png",
+            "fingerprint": 2600135182,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 419585142,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3694289947,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "FpsReducer-mc1.16.4-1.18.jar"
+      },
+      "dateInstalled": "2021-03-29T13:31:49.5617609Z",
+      "dateUpdated": "2021-03-29T13:31:49.5637638Z",
+      "dateLastUpdateAttempted": "2021-03-29T13:31:49.5637638Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
