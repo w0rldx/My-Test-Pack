@@ -32,6 +32,19 @@ craftingTable.addShapeless("spyglass", <item:caves_and_cliffs_mod:spyglass>, [<i
 craftingTable.removeRecipe(<item:caves_and_cliffs_mod:lightning_rod>);
 craftingTable.addShapeless("lightning_rod", <item:caves_and_cliffs_mod:lightning_rod>, [<item:minecraft:air>, <item:create:copper_ingot>, <item:minecraft:air>, <item:minecraft:air>, <item:create:copper_ingot>, <item:minecraft:air>, <item:minecraft:air>, <item:create:copper_ingot>]);
 
+//Mekanism Copper
+furnace.removeRecipe(<item:mekanism:ingot_copper>);
+blastFurnace.removeRecipe(<item:mekanism:ingot_copper>);
+furnace.addRecipe("crushedcopper2ingot", <item:create:copper_ingot>, <item:mekanism:dust_copper>, 0.3, 200);
+blastFurnace.addRecipe("crushedcopper2ingot2", <item:create:copper_ingot>, <item:mekanism:dust_copper>, 0.3, 100);
+craftingTable.removeRecipe(<item:mekanism:block_copper>);
+craftingTable.removeRecipe(<item:mekanism:ingot_copper>);
+craftingTable.removeRecipe(<item:mekanism:nugget_copper>);
+
 //Copper Tag
 var copper_tag = <tag:items:forge:ingots/copper>;
 copper_tag.add(<item:caves_and_cliffs_mod:copper_ingot>);
+
+var copperore_tag = <tag:items:forge:ores/copper>;
+copperore_tag.add(<item:caves_and_cliffs_mod:copper_ore>);
+copperore_tag.add(<item:caves_and_cliffs_mod:deepslate_copper_ore>);
