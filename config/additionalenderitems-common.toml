@@ -1,0 +1,50 @@
+
+[items]
+	#Controls how many ender pearls the pearl stack item can store
+	#Range: > 1
+	max_pearls_in_stack_item = 256
+	#Controls whether shift clicking while holding the pearl stack item will consume ender pearls in the inventory to refill itself
+	refill_pearl_stack_by_crouch_click = true
+	#Controls how far the Ender Torch will fly forward before turning into a block
+	#Range: 1 ~ 64
+	ender_torch_max_travel_distance = 20
+	#Allows players to right click with a dragon charge while aiming at the air to shoot it forward, similar to the way a dispenser would
+	dragon_charge_allow_shoot_from_hand = true
+
+[entitises]
+	#Controls whether Ender Phantoms can spawn (requires reload)
+	enable_ender_phantom = true
+
+[entities]
+	#Sets the base health of the Ender Phantom
+	#Range: 1.0 ~ 1.7976931348623157E308
+	ender_phantom_base_health = 40.0
+	#Sets the base damage of the Ender Phantom (The normal difficulty damage)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	ender_phantom_base_damage = 8.0
+
+[enchantments]
+	#Controls whether the warp resistance enchantment can be acquired at the enchanting table
+	warp_resistance_enabled = true
+	#Controls whether the warp resistance enchantment can be placed on an item with Feather Falling (and vice versa)
+	warp_resistance_with_feather_falling = false
+
+[blocks]
+	#Controls whether disenchantments require the player to have experience levels
+	disenchanting_experience_cost_enabled = true
+	#Controls whether cursed enchantments on items will require additional experience to remove
+	disenchanting_cursed_item_penalty = true
+	#Controls whether treasure enchantments on items will require additional experience to remove
+	disenchanting_treasure_item_penalty = true
+	#Decides whether disenchanting takes a set amount of phantom membrane, or costs 1 membrane per enchantment level
+	disenchanting_phantom_mebrane_uses_static_cost = false
+	#Controls the amount of phantom membrane that will be required for the disenchantment if the above variable is set to TRUE
+	#Range: > 1
+	disenchanting_phantom_membrane_static_cost = 3
+	#Controls how much fuel an ender pearl provides in the Warp Portal
+	#Range: > 1
+	warp_portal_pearl_fuel_value = 1
+	#Controls how much fuel an eye of ender provides in the Warp Portal
+	#Range: > 1
+	warp_portal_pearl_eye_value = 2
+

@@ -11,3 +11,4 @@ mods.jei.JEI.hideRegex(".*create:dolomite.*");
 mods.jei.JEI.hideRegex(".*create:gabbro.*");
 mods.jei.JEI.hideRegex(".*create:scoria.*");
 mods.jei.JEI.hideRegex(".*losttrinkets:.*");
+mods.jei.JEI.hideItem(<item:additionalenderitems:warp_portal>);

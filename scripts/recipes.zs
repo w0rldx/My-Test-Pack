@@ -40,3 +40,6 @@ blastFurnace.addRecipe("crushedcopper2ingot2", <item:create:copper_ingot>, <item
 craftingTable.removeRecipe(<item:mekanism:block_copper>);
 craftingTable.removeRecipe(<item:mekanism:ingot_copper>);
 craftingTable.removeRecipe(<item:mekanism:nugget_copper>);
+
+//Other
+craftingTable.removeRecipe(<item:additionalenderitems:warp_portal>);
