@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-03-30T20:23:38.2380622Z",
+  "lastPlayed": "2021-03-30T20:24:22.6764489Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.5",
@@ -6985,69 +6985,7 @@
     {
       "addonID": 446017,
       "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
-      "installedFile": {
-        "id": 3254719,
-        "displayName": "Vanilla Stacked Dimensions Warden Edition 6.1.jar",
-        "fileName": "Vanilla Stacked Dimensions Warden Edition 6.1.jar",
-        "fileDate": "2021-03-29T14:04:37.37Z",
-        "fileLength": 6739712,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3254/719/Vanilla Stacked Dimensions Warden Edition 6.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3759132911,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3735524549,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2089008986,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2203374630,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1646062482,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2781786811,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Vanilla Stacked Dimensions Warden Edition 6.1.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-03-29T13:29:04.7263112Z",
       "dateUpdated": "2021-03-30T16:44:12.4781693Z",
       "dateLastUpdateAttempted": "2021-03-30T16:44:12.4781693Z",
