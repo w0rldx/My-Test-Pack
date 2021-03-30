@@ -7,7 +7,7 @@
   "forge:ingots/constantan": "null",
   "forge:ingots/copper": "mekanism:ingot_copper",
   "forge:ingots/electrum": "null",
-  "forge:ingots/graphite": "null",
+  "forge:ingots/graphite": "bigreactors:graphite_ingot",
   "forge:ingots/invar": "null",
   "forge:ingots/iridium": "null",
   "forge:ingots/lead": "mekanism:ingot_lead",

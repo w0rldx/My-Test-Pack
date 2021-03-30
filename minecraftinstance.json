@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-03-30T18:12:38.2200138Z",
+  "lastPlayed": "2021-03-30T19:55:07.2204078Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.5",
@@ -2463,6 +2463,110 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 250277,
+      "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
+      "installedFile": {
+        "id": 3211479,
+        "displayName": "ExtremeReactors2-1.16.4-2.0.23.jar",
+        "fileName": "ExtremeReactors2-1.16.4-2.0.23.jar",
+        "fileDate": "2021-02-21T10:00:42.903Z",
+        "fileLength": 1804617,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3211/479/ExtremeReactors2-1.16.4-2.0.23.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306770,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 247921,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3769115431,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "it",
+            "fingerprint": 670017419,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 1973915149,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2739226678,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 202226307,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 700863452,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2393568242,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 675619403,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ExtremeReactors2-1.16.4-2.0.23.jar"
+      },
+      "dateInstalled": "2021-03-30T19:54:20.6744598Z",
+      "dateUpdated": "2021-03-30T19:54:20.6764601Z",
+      "dateLastUpdateAttempted": "2021-03-30T19:54:20.6764601Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 265917,
@@ -18863,6 +18967,91 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 247921,
+      "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
+      "installedFile": {
+        "id": 3211476,
+        "displayName": "ZeroCore2-1.16.4-2.0.21.jar",
+        "fileName": "ZeroCore2-1.16.4-2.0.21.jar",
+        "fileDate": "2021-02-21T09:59:24.063Z",
+        "fileLength": 853117,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3211/476/ZeroCore2-1.16.4-2.0.21.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2818970519,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "it",
+            "fingerprint": 2937373753,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 324498149,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE.txt",
+            "fingerprint": 2361963726,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 382513776,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 4187308892,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2959564642,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ZeroCore2-1.16.4-2.0.21.jar"
+      },
+      "dateInstalled": "2021-03-30T19:54:20.1600456Z",
+      "dateUpdated": "2021-03-30T19:54:20.1630452Z",
+      "dateLastUpdateAttempted": "2021-03-30T19:54:20.1630452Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 308240,
