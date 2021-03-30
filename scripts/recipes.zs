@@ -40,15 +40,3 @@ blastFurnace.addRecipe("crushedcopper2ingot2", <item:create:copper_ingot>, <item
 craftingTable.removeRecipe(<item:mekanism:block_copper>);
 craftingTable.removeRecipe(<item:mekanism:ingot_copper>);
 craftingTable.removeRecipe(<item:mekanism:nugget_copper>);
-
-//Copper Tag
-var copper_tag = <tag:items:forge:ingots/copper>;
-copper_tag.add(<item:caves_and_cliffs_mod:copper_ingot>);
-
-var copperore_tag = <tag:items:forge:ores/copper>;
-copperore_tag.add(<item:caves_and_cliffs_mod:copper_ore>);
-copperore_tag.add(<item:caves_and_cliffs_mod:deepslate_copper_ore>);
-
-var ore_tag = <tag:items:forge:ores>;
-ore_tag.add(<item:caves_and_cliffs_mod:deepslate_copper_ore>);
-ore_tag.add(<item:caves_and_cliffs_mod:copper_ore>);
