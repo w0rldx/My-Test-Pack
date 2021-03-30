@@ -48,3 +48,7 @@ copper_tag.add(<item:caves_and_cliffs_mod:copper_ingot>);
 var copperore_tag = <tag:items:forge:ores/copper>;
 copperore_tag.add(<item:caves_and_cliffs_mod:copper_ore>);
 copperore_tag.add(<item:caves_and_cliffs_mod:deepslate_copper_ore>);
+
+var ore_tag = <tag:items:forge:ores>;
+ore_tag.add(<item:caves_and_cliffs_mod:deepslate_copper_ore>);
+ore_tag.add(<item:caves_and_cliffs_mod:copper_ore>);
