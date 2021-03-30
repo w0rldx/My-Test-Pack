@@ -10,3 +10,4 @@ mods.jei.JEI.hideRegex(".*create:limestone.*");
 mods.jei.JEI.hideRegex(".*create:dolomite.*");
 mods.jei.JEI.hideRegex(".*create:gabbro.*");
 mods.jei.JEI.hideRegex(".*create:scoria.*");
+mods.jei.JEI.hideRegex(".*losttrinkets:.*");

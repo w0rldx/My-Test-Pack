@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-03-30T17:23:16.6482724Z",
+  "lastPlayed": "2021-03-30T18:01:58.6256116Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.5",
@@ -10189,6 +10189,77 @@
       "installedTargets": null
     },
     {
+      "addonID": 347954,
+      "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
+      "installedFile": {
+        "id": 3232534,
+        "displayName": "Lollipop-1.16.5-3.2.9.jar",
+        "fileName": "Lollipop-1.16.5-3.2.9.jar",
+        "fileDate": "2021-03-09T09:33:52.11Z",
+        "fileLength": 683534,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3232/534/Lollipop-1.16.5-3.2.9.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1701288995,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "owmii",
+            "fingerprint": 2642039042,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2815777029,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3717667376,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3157196806,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Lollipop-1.16.5-3.2.9.jar"
+      },
+      "dateInstalled": "2021-03-30T17:52:22.1903504Z",
+      "dateUpdated": "2021-03-30T17:52:22.1923522Z",
+      "dateLastUpdateAttempted": "2021-03-30T17:52:22.1923522Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 411623,
       "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
       "installedFile": {
@@ -10688,6 +10759,84 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 442922,
+      "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
+      "installedFile": {
+        "id": 3246891,
+        "displayName": "AnointedItems-1.16.5-release1.2.3",
+        "fileName": "AnointedItems-1.16.5-release1.2.3.jar",
+        "fileDate": "2021-03-21T16:40:01.577Z",
+        "fileLength": 207174,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3246/891/AnointedItems-1.16.5-release1.2.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3759678162,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1616932023,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1361536961,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4213927256,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1438559181,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 330119886,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AnointedItems-1.16.5-release1.2.3.jar"
+      },
+      "dateInstalled": "2021-03-30T18:00:48.9233381Z",
+      "dateUpdated": "2021-03-30T18:00:48.9243376Z",
+      "dateLastUpdateAttempted": "2021-03-30T18:00:48.9243376Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 274259,
@@ -14281,6 +14430,85 @@
       "installedTargets": null
     },
     {
+      "addonID": 236484,
+      "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
+      "installedFile": {
+        "id": 3224148,
+        "displayName": "Chunk Animator 1.2.3 for MC1.16.5",
+        "fileName": "ChunkAnimator-1.16.5-1.2.3.jar",
+        "fileDate": "2021-03-02T17:10:36.687Z",
+        "fileLength": 21135,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3224/148/ChunkAnimator-1.16.5-1.2.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1668571792,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "lumien",
+            "fingerprint": 971913876,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "penner",
+            "fingerprint": 815329822,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1565966176,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "transformer",
+            "fingerprint": 2421320299,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1241536392,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ChunkAnimator-1.16.5-1.2.3.jar"
+      },
+      "dateInstalled": "2021-03-30T17:54:21.0790548Z",
+      "dateUpdated": "2021-03-30T17:54:21.081052Z",
+      "dateLastUpdateAttempted": "2021-03-30T17:54:21.081052Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 368293,
       "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
       "installedFile": {
@@ -14375,6 +14603,102 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 404038,
+      "gameInstanceID": "65789aa7-ad15-488a-b67f-6906ea60f2d5",
+      "installedFile": {
+        "id": 3242497,
+        "displayName": "LostTrinkets-1.16.5-0.1.27.jar",
+        "fileName": "LostTrinkets-1.16.5-0.1.27.jar",
+        "fileDate": "2021-03-17T11:27:42.42Z",
+        "fileLength": 323141,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3242/497/LostTrinkets-1.16.5-0.1.27.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 347954,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 65383375,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "owmii",
+            "fingerprint": 1320834181,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 180507744,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3278550944,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "losttrinkets.mixins.json",
+            "fingerprint": 3076126122,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3276926842,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "losttrinkets.refmap.json",
+            "fingerprint": 2452624775,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1316093734,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "LostTrinkets-1.16.5-0.1.27.jar"
+      },
+      "dateInstalled": "2021-03-30T17:52:22.3686531Z",
+      "dateUpdated": "2021-03-30T17:52:22.3696558Z",
+      "dateLastUpdateAttempted": "2021-03-30T17:52:22.3696558Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 367178,
