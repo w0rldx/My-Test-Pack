@@ -1,9 +1,9 @@
 
 [general]
-	#Some convenient tweaks for working with anvils.
-	"Anvil Tweaks" = true
 	#Small improvements to make working an enchantment table more convenient.
 	"Easy Enchanting" = true
+	#Some convenient tweaks for working with anvils.
+	"Anvil Tweaks" = true
 
 [anvil_tweaks]
 	#Using an iron block on a chipped or damaged anvil repairs it fully.

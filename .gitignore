@@ -43,6 +43,7 @@ ChangelogGenerator.bat
 GithubChangelogGenerator.bat
 twitch_export-win.exe
 *.dll
+*.bak
 whitelist.json
 ops.json
 ModpackUploader.bat
@@ -97,6 +98,7 @@ config/mcjtylib-client.toml
 config/rare-ice.properties
 config/pneumaticcraft-client.toml
 config/chiselsandbits-client.toml
+config/sdrp-client.toml
 servers.dat_old
 banned-ips.json
 banned-players.json

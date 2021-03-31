@@ -2,6 +2,18 @@
 #Default: []
 "Biome Blacklist" = []
 
+[Integration]
+
+	[Integration.Environmental]
+		#Default: true
+		"Delphiniums In Lush Plains" = true
+
+	[Integration.Quark]
+		#Chance to generate a marigold fairy ring in savanna biome chunk. Set to 0 to disable.
+		#Default: 0.0025
+		#Range: 0.0 ~ 1.0
+		"Savanna Fairy Ring Chance" = 0.0025
+
 [Misc]
 	#Peat is a block found underwater in swamps similar to clay.
 	#It can be tilled and used to plant crops, which will grow faster than on regular farmland.
@@ -11,32 +23,43 @@
 	#Default: 0.25
 	#Range: 0.0 ~ 1.0
 	"Peat Growth Rate Bonus" = 0.25
-	#Adds foxes, sheep, berry bushes, birches and shrubs to tundras to make them less lackluster.
+	#Mossy Gravel is found in swamps. It can also be crafted using gravel and vines/hanging moss.
 	#Default: true
-	"Better Tundras" = true
+	"Mossy Gravel Enabled" = true
+	#This tweak only applies if apple trees are enabled.
+	#Default: true
+	"Disable Apple Drop From Oaks" = true
 	#Adds composting recipes for dead bushes, bamboo, poisonous potatoes and chorus fruits/flowers.
 	#Default: true
 	"Additional Compostables" = true
 	#Allows growing lily pads by using bonemeal in shallow water pools.
 	#Default: true
 	"Bonemeal Lilypad Growing" = true
+	#Adds foxes, sheep, berry bushes, birches and shrubs to tundras to make them less lackluster.
+	#Default: true
+	"Better Tundras" = true
 	#If enabled, wither roses will generate naturally in Soul Sand Valleys.
 	#Default: true
 	"Wither Rose Generation" = true
-	#Mossy Gravel is found in swamps. It can also be crafted using gravel and vines/hanging moss.
-	#Default: true
-	"Mossy Gravel Enabled" = true
 	#Default: true
 	"Banner Patterns" = true
-	#This tweak only applies if apple trees are enabled.
-	#Default: true
-	"Disable Apple Drop From Oaks" = true
 
-[Trees]
+[Tools]
+	#Caltrops are metal spikes that can be placed on the ground. Dropped caltrops will also place themselves if possible.
+	#Caltrops deal one heart of damage and inflict slowness for 10 seconds when touched.
+	#Caltrops will be flushed away by flowing water.
+	#You can right click caltrops with an empty hand to pick them up.
 	#Default: true
-	"Apple Trees Enabled" = true
+	"Caltrops Enabled" = true
+	#The chance for caltrops to break when dealing damage.
+	#Default: 0.125
+	#Range: 0.0 ~ 1.0
+	"Caltrops Break Chance" = 0.125
+	#Basket is a portable container crafted from swamp reeds (or sugar cane if reeds are disabled). It can be placed or opened from inventory.
+	#Baskets have 9 slots and can only store forage such as flowers, saplings, mushrooms, seeds and eggs.
+	#When you have a basket in your hand, it will automatically collect compatible items.
 	#Default: true
-	"Hazel Trees Enabled" = true
+	"Basket Enabled" = true
 
 [Biomes]
 	#Default: 1
@@ -49,22 +72,16 @@
 	#Range: > 0
 	"Muskeg Weight" = 3
 
-[Tools]
-	#Caltrops are metal spikes that can be placed on the ground. Dropped caltrops will also place themselves if possible.
-	#Caltrops deal one heart of damage and inflict slowness for 10 seconds when touched.
-	#Caltrops will be flushed away by flowing water.
-	#You can right click caltrops with an empty hand to pick them up.
+[Trees]
 	#Default: true
-	"Caltrops Enabled" = true
-	#Basket is a portable container crafted from swamp reeds (or sugar cane if reeds are disabled). It can be placed or opened from inventory.
-	#Baskets have 9 slots and can only store forage such as flowers, saplings, mushrooms, seeds and eggs.
-	#When you have a basket in your hand, it will automatically collect compatible items.
+	"Apple Trees Enabled" = true
 	#Default: true
-	"Basket Enabled" = true
-	#The chance for caltrops to break when dealing damage.
-	#Default: 0.125
-	#Range: 0.0 ~ 1.0
-	"Caltrops Break Chance" = 0.125
+	"Hazel Trees Enabled" = true
+
+[Fauna]
+	#Default: 10
+	#Range: 0 ~ 100
+	"Butterfly Spawn Weight" = 10
 
 [Flora]
 	#Dandelion puffs spawn among vanilla dandelions. You can blow on a dandelion puff by using it.
@@ -77,9 +94,15 @@
 	#Adds chicory, yarrow and daffodils to plains. Daffodils are rare, but they can also be found in flower forests.
 	#Default: true
 	"Field Flowers Enabled" = true
+	#Adds wild garlic, primroses and foxgloves to forests. These flowers can also be found in flower forests.
+	#Default: true
+	"Forest Flowers Enabled" = true
 	#Adds forget-me-not, globeflowers and water flags to temperate and hot swamps.
 	#Default: true
 	"Swamp Flowers Enabled" = true
+	#Adds cattails to swamps. Cattails can be duplicated using bonemeal and crafted into brown dye.
+	#Default: true
+	"Cattails Enabled" = true
 	#Small lilypads can be found in swamps. They can be stacked up to 4, like sea pickles.
 	#Default: true
 	"Small Lilypads Enabled" = true
@@ -109,10 +132,23 @@
 	#Adds white dryads, fireweed, arctic poppies and white rhododendrons to taiga and tundra biomes.
 	#Default: true
 	"Arctic Flowers Enabled" = true
+	#Chance to replace a vanilla poppy with an arctic poppy in tundra biomes.
+	#Default: 0.5
+	#Range: 0.0 ~ 1.0
+	"Arctic Poppy Ratio" = 0.5
+	#Sweet peas are flowering vines found in flower forests. They come in seven different colors.
+	#Default: true
+	"Sweet Peas Enabled" = true
 	#Wreath is a cosmetic headdress crafted with 4 small flowers of any kind in a 2x2 shape.
 	#The color of the wreath depends on the flowers you used to craft it.
 	#Default: true
 	"Wreaths Enabled" = true
+	#Caribou moss is a grass-like plant found in tundras.
+	#Default: true
+	"Caribou Moss Enabled" = true
+	#Sour berries can be found growing on water in boreal swamps.
+	#Default: true
+	"Sour Berries Enabled" = true
 	#Roots can be found on dirt cave ceilings and overhangs in most biomes.
 	#They can be collected with shears. You can spread roots by using bonemeal on one.
 	#Roots can be crafted into brown dye or covered in clay and baked on a campfire. Baked roots grant 15 seconds of Haste when eaten.
@@ -120,25 +156,6 @@
 	"Roots Enabled" = true
 	#Default: true
 	"Hanging Moss Enabled" = true
-	#Adds wild garlic, primroses and foxgloves to forests. These flowers can also be found in flower forests.
-	#Default: true
-	"Forest Flowers Enabled" = true
-	#Adds cattails to swamps. Cattails can be duplicated using bonemeal and crafted into brown dye.
-	#Default: true
-	"Cattails Enabled" = true
-	#Chance to replace a vanilla poppy with an arctic poppy in tundra biomes.
-	#Default: 0.5
-	#Range: 0.0 ~ 1.0
-	"Arctic Poppy Ratio" = 0.5
-	#Caribou moss is a grass-like plant found in tundras.
-	#Default: true
-	"Caribou Moss Enabled" = true
-	#Sweet peas are flowering vines found in flower forests. They come in seven different colors.
-	#Default: true
-	"Sweet Peas Enabled" = true
-	#Sour berries can be found growing on water in boreal swamps.
-	#Default: true
-	"Sour Berries Enabled" = true
 
 [Food]
 	#Fern fiddleheads can be found when breaking ferns. You can eat them raw or add them to suspicious stews.
@@ -146,6 +163,9 @@
 	#If the effect is negative, duration is halved instead.
 	#Default: true
 	"Fern Fiddlehead Enabled" = true
+	#Default: 0.2
+	#Range: 0.0 ~ 1.0
+	"Fiddlehead Drop Chance" = 0.2
 	#Taffy is a food item that can only be found in dungeons. It restores some health, but also makes your mouth sticky, reducing eating speed with every taffy eaten.
 	#Default: true
 	"Taffy Enabled" = true
@@ -157,30 +177,10 @@
 	#It can be found in dungeon loot with the same rarity as enchanted golden apples.
 	#Default: true
 	"Enchanted Golden Carrot Enabled" = true
-	#Berry Sorbet is a new food item made with sweet berries, sugar and a snowball in a bowl.
-	#Default: true
-	"Berry Sorbet Enabled" = true
-	#Default: 0.2
-	#Range: 0.0 ~ 1.0
-	"Fiddlehead Drop Chance" = 0.2
 	#Kelp soup is a new food item made with four kelp in a bowl.
 	#Default: true
 	"Kelp Soup Enabled" = true
-
-[Integration]
-
-	[Integration.Quark]
-		#Chance to generate a marigold fairy ring in savanna biome chunk. Set to 0 to disable.
-		#Default: 0.0025
-		#Range: 0.0 ~ 1.0
-		"Savanna Fairy Ring Chance" = 0.0025
-
-	[Integration.Environmental]
-		#Default: true
-		"Delphiniums In Lush Plains" = true
-
-[Fauna]
-	#Default: 10
-	#Range: 0 ~ 100
-	"Butterfly Spawn Weight" = 10
+	#Berry Sorbet is a new food item made with sweet berries, sugar and a snowball in a bowl.
+	#Default: true
+	"Berry Sorbet Enabled" = true
 

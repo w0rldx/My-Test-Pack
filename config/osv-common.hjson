@@ -4,6 +4,8 @@
      # such as the ability to fall like sand or sustain leaves.
     bgImitation: true
     enableFurnaceRecipes: true
+     # Whether to inject custom variants into existing advancements.
+    enableAdvancements: true
      # Vanilla ore variants will not be generated in the presence of any
      # mods listed here.
     disableVanillaVariantsIf: []
@@ -11,8 +13,6 @@
     variantsDrop: false
      # Whether ore variants will drop when using silk touch.
     variantsDropWithSilkTouch: true
-     # Whether to inject custom variants into existing advancements.
-    enableAdvancements: true
      # Whether to allow silverfish to enter into any infested variants.
     mapInfestedVariants: true
   }

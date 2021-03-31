@@ -1,21 +1,4 @@
 
-#Great Hunger
-[hunger]
-	"Natural Spawning" = true
-	#Range: 1 ~ 100
-	"Spawn Weight" = 5
-	#Range: 1.0 ~ Infinity
-	"Max Health" = 20.0
-	"Maximum Stored Enchantments" = 5
-
-#Monster of the Ocean Depths
-[kraken]
-	"Natural Spawning" = true
-	#Range: 1 ~ 100
-	"Spawn Weight" = 2
-	#Range: 1.0 ~ Infinity
-	"Max Health" = 40.0
-
 #Wildfire
 [wildfire]
 	#This will affect all Wildfire spawns (natural + spawner)
@@ -45,4 +28,21 @@
 		#Sets Wildfire Fireball explosion radius
 		#Range: 0.1 ~ 4.0
 		"Explosion Radius" = 0.5
+
+#Great Hunger
+[hunger]
+	"Natural Spawning" = true
+	#Range: 1 ~ 100
+	"Spawn Weight" = 5
+	#Range: 1.0 ~ Infinity
+	"Max Health" = 20.0
+	"Maximum Stored Enchantments" = 5
+
+#Monster of the Ocean Depths
+[kraken]
+	"Natural Spawning" = true
+	#Range: 1 ~ 100
+	"Spawn Weight" = 2
+	#Range: 1.0 ~ Infinity
+	"Max Health" = 40.0
 

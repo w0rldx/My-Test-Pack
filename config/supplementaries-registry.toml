@@ -59,12 +59,12 @@
 		rope_arrow = true
 		pulley_block = true
 		fodder = true
+		bomb = true
+		magma_cream_block = true
 		#WIP
 		laser_block = false
 		#WIP
 		flag = false
-		bomb = true
-		magma_cream_block = true
 
 	[registration.entities]
 		firefly = true
