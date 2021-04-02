@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-04-02T02:38:09.2406591Z",
+  "lastPlayed": "2021-04-02T02:41:15.3363771Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.5",
@@ -3919,7 +3919,7 @@
   "name": "Xe Ultima Dev Version",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-04-02T02:04:12.0393173Z",
+  "lastPreviousMatchUpdate": "2021-04-02T02:42:19.1055599Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -6809,84 +6809,6 @@
       "dateInstalled": "2021-04-02T01:59:19.0143772Z",
       "dateUpdated": "2021-04-02T01:59:19.0158968Z",
       "dateLastUpdateAttempted": "2021-04-02T01:59:19.0158968Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 452537,
-      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": {
-        "id": 3236663,
-        "displayName": "EBooks.zip",
-        "fileName": "EBooks.zip",
-        "fileDate": "2021-03-12T10:16:58.597Z",
-        "fileLength": 135450,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3236/663/EBooks.zip",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "assets",
-            "fingerprint": 3600014287,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3531043433,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.png",
-            "fingerprint": 3971851125,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2424544326,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.1",
-          "1.14.1",
-          "1.14.4",
-          "1.14.3",
-          "1.15",
-          "1.16",
-          "1.16.5",
-          "1.14",
-          "1.15.2",
-          "1.14.2",
-          "1.16.4",
-          "1.16.2",
-          "1.15.1"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-04-23T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "EBooks.zip"
-      },
-      "dateInstalled": "2021-04-02T02:29:43.2096898Z",
-      "dateUpdated": "2021-04-02T02:29:43.212731Z",
-      "dateLastUpdateAttempted": "2021-04-02T02:29:43.212731Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -12408,24 +12330,6 @@
       "installedTargets": []
     },
     {
-      "addonID": 287538,
-      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": null,
-      "dateInstalled": "2021-04-02T02:00:10.2027528Z",
-      "dateUpdated": "2021-04-02T02:00:10.2047795Z",
-      "dateLastUpdateAttempted": "2021-04-02T02:00:10.2047795Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 316582,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
       "installedFile": {
@@ -14736,74 +14640,7 @@
     {
       "addonID": 411623,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": {
-        "id": 3238477,
-        "displayName": "CAC MOD [1.16.4] [2021.1]",
-        "fileName": "CAC MOD [1.16.4-5] [2021.1].jar",
-        "fileDate": "2021-03-13T21:04:35.54Z",
-        "fileLength": 22374883,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3238/477/CAC MOD [1.16.4-5] [2021.1].jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 674377796,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 3727529419,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3724270518,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2017473237,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 494376168,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2110083761,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2589536041,
-        "gameVersion": [
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "CAC MOD [1.16.4-5] [2021.1].jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-04-02T02:00:32.9742606Z",
       "dateUpdated": "2021-04-02T02:00:32.9854067Z",
       "dateLastUpdateAttempted": "2021-04-02T02:00:32.9854067Z",
@@ -23642,77 +23479,6 @@
       "dateInstalled": "2021-04-02T02:01:23.4226991Z",
       "dateUpdated": "2021-04-02T02:01:23.4247252Z",
       "dateLastUpdateAttempted": "2021-04-02T02:01:23.4247252Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 447756,
-      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": {
-        "id": 3257044,
-        "displayName": "Human Villagers v7.zip",
-        "fileName": "Human Villagers v7.zip",
-        "fileDate": "2021-03-31T19:59:41.56Z",
-        "fileLength": 689374,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3257/44/Human Villagers v7.zip",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "assets",
-            "fingerprint": 2274634431,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "Credits.txt",
-            "fingerprint": 2881671425,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2196467424,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.png",
-            "fingerprint": 4192107839,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 438735416,
-        "gameVersion": [
-          "1.16.5"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Human Villagers v7.zip"
-      },
-      "dateInstalled": "2021-04-02T02:28:46.6888363Z",
-      "dateUpdated": "2021-04-02T02:28:46.6918768Z",
-      "dateLastUpdateAttempted": "2021-04-02T02:28:46.6918768Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
