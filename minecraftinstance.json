@@ -6821,6 +6821,84 @@
       "installedTargets": []
     },
     {
+      "addonID": 452537,
+      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
+      "installedFile": {
+        "id": 3236663,
+        "displayName": "EBooks.zip",
+        "fileName": "EBooks.zip",
+        "fileDate": "2021-03-12T10:16:58.597Z",
+        "fileLength": 135450,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3236/663/EBooks.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "assets",
+            "fingerprint": 3600014287,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3531043433,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.png",
+            "fingerprint": 3971851125,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2424544326,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.1",
+          "1.14.1",
+          "1.14.4",
+          "1.14.3",
+          "1.15",
+          "1.16",
+          "1.16.5",
+          "1.14",
+          "1.15.2",
+          "1.14.2",
+          "1.16.4",
+          "1.16.2",
+          "1.15.1"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-04-23T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "EBooks.zip"
+      },
+      "dateInstalled": "2021-04-02T02:29:43.2096898Z",
+      "dateUpdated": "2021-04-02T02:29:43.212731Z",
+      "dateLastUpdateAttempted": "2021-04-02T02:29:43.212731Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 449187,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
       "installedFile": {
@@ -9100,73 +9178,6 @@
       "dateInstalled": "2021-04-02T01:59:38.5888256Z",
       "dateUpdated": "2021-04-02T01:59:38.591359Z",
       "dateLastUpdateAttempted": "2021-04-02T01:59:38.591359Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 453763,
-      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": {
-        "id": 3243431,
-        "displayName": "FreshAnimations_v1.1.zip",
-        "fileName": "FreshAnimations_v1.1.zip",
-        "fileDate": "2021-03-18T03:57:14.887Z",
-        "fileLength": 57634,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3243/431/FreshAnimations_v1.1.zip",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "assets",
-            "fingerprint": 2982023330,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3163551219,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.png",
-            "fingerprint": 2208278877,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1512388094,
-        "gameVersion": [
-          "1.15",
-          "1.16.5",
-          "1.14"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-04-23T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "FreshAnimations_v1.1.zip"
-      },
-      "dateInstalled": "2021-04-02T01:59:38.9014387Z",
-      "dateUpdated": "2021-04-02T01:59:38.904985Z",
-      "dateLastUpdateAttempted": "2021-04-02T01:59:38.904985Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -14498,6 +14509,71 @@
       "dateInstalled": "2021-04-02T02:00:27.1011639Z",
       "dateUpdated": "2021-04-02T02:00:27.1102843Z",
       "dateLastUpdateAttempted": "2021-04-02T02:00:27.1102843Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 387040,
+      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
+      "installedFile": {
+        "id": 3170852,
+        "displayName": "Enchanted Swords 1.16.5.zip",
+        "fileName": "Enchanted Swords 1.16.5.zip",
+        "fileDate": "2021-01-16T22:06:58.893Z",
+        "fileLength": 595526,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3170/852/Enchanted Swords 1.16.5.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "assets",
+            "fingerprint": 925400436,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1124928210,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.png",
+            "fingerprint": 2981975360,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1396355819,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Enchanted Swords 1.16.5.zip"
+      },
+      "dateInstalled": "2021-04-02T02:31:00.862661Z",
+      "dateUpdated": "2021-04-02T02:31:00.865702Z",
+      "dateLastUpdateAttempted": "2021-04-02T02:31:00.865702Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -23475,6 +23551,77 @@
       "dateInstalled": "2021-04-02T02:01:23.4226991Z",
       "dateUpdated": "2021-04-02T02:01:23.4247252Z",
       "dateLastUpdateAttempted": "2021-04-02T02:01:23.4247252Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 447756,
+      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
+      "installedFile": {
+        "id": 3257044,
+        "displayName": "Human Villagers v7.zip",
+        "fileName": "Human Villagers v7.zip",
+        "fileDate": "2021-03-31T19:59:41.56Z",
+        "fileLength": 689374,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3257/44/Human Villagers v7.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "assets",
+            "fingerprint": 2274634431,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Credits.txt",
+            "fingerprint": 2881671425,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2196467424,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.png",
+            "fingerprint": 4192107839,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 438735416,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Human Villagers v7.zip"
+      },
+      "dateInstalled": "2021-04-02T02:28:46.6888363Z",
+      "dateUpdated": "2021-04-02T02:28:46.6918768Z",
+      "dateLastUpdateAttempted": "2021-04-02T02:28:46.6918768Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
