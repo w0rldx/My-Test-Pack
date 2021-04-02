@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-04-02T02:36:21.9247927Z",
+  "lastPlayed": "2021-04-02T02:38:09.2406591Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.5",
@@ -21415,6 +21415,104 @@
       "dateInstalled": "2021-04-02T02:01:11.0267353Z",
       "dateUpdated": "2021-04-02T02:01:11.0292677Z",
       "dateLastUpdateAttempted": "2021-04-02T02:01:11.0292677Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 399630,
+      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
+      "installedFile": {
+        "id": 3233422,
+        "displayName": "EmendatusEnigmatica-1.16.5-1.2.3",
+        "fileName": "EmendatusEnigmatica-1.16.5-1.2.3.jar",
+        "fileDate": "2021-03-09T20:18:51.447Z",
+        "fileLength": 3348850,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3233/422/EmendatusEnigmatica-1.16.5-1.2.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4232116996,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2315953581,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1658222235,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3352530087,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "emendatusenigmatica.mixins.json",
+            "fingerprint": 332023941,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 1118063826,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2276242867,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "emendatusenigmatica.refmap.json",
+            "fingerprint": 3453858064,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 4090925069,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "EmendatusEnigmatica-1.16.5-1.2.3.jar"
+      },
+      "dateInstalled": "2021-04-02T02:37:56.3194278Z",
+      "dateUpdated": "2021-04-02T02:37:56.3255052Z",
+      "dateLastUpdateAttempted": "2021-04-02T02:37:56.3255052Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
