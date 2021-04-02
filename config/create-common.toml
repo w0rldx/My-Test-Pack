@@ -48,7 +48,7 @@
 		[worldgen.v1.zinc_ore]
 			#
 			#Whether to spawn this in your World
-			enable = true
+			enable = false
 			#No comment
 			#Range: > 0
 			clusterSize = 14
@@ -65,7 +65,7 @@
 		[worldgen.v1.zinc_ore_desert]
 			#
 			#Whether to spawn this in your World
-			enable = true
+			enable = false
 			#No comment
 			#Range: > 0
 			clusterSize = 17
@@ -82,7 +82,7 @@
 		[worldgen.v1.limestone]
 			#
 			#Whether to spawn this in your World
-			enable = false
+			enable = true
 			#No comment
 			#Range: > 0
 			clusterSize = 256
@@ -99,7 +99,7 @@
 		[worldgen.v1.weathered_limestone]
 			#
 			#Whether to spawn this in your World
-			enable = false
+			enable = true
 			#No comment
 			#Range: > 0
 			clusterSize = 256
@@ -116,7 +116,7 @@
 		[worldgen.v1.dolomite]
 			#
 			#Whether to spawn this in your World
-			enable = false
+			enable = true
 			#No comment
 			#Range: > 0
 			clusterSize = 256
@@ -133,7 +133,7 @@
 		[worldgen.v1.gabbro]
 			#
 			#Whether to spawn this in your World
-			enable = false
+			enable = true
 			#No comment
 			#Range: > 0
 			clusterSize = 256
@@ -150,7 +150,7 @@
 		[worldgen.v1.scoria]
 			#
 			#Whether to spawn this in your World
-			enable = false
+			enable = true
 			#No comment
 			#Range: > 0
 			clusterSize = 256
