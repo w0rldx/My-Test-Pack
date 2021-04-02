@@ -22,6 +22,8 @@ screenshots/
 /kubejs/exported
 /ESM/
 /shaderpacks/
+/paintings/*
+
 # Utilities
 .github_changelog_generator
 github_changelog_generator.gemspec
