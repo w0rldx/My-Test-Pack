@@ -5,6 +5,9 @@ snowAlwaysReplaceable = true
 snowAccumulationDuringSnowstorm = true
 #Unavailable if TerraForged mod installed
 snowAccumulationDuringSnowfall = false
+#9 = Unlimited
+#Range: 1 ~ 9
+snowAccumulationMaxLayers = 8
 #Unavailable if TerraForged mod installed
 thinnerBoundingBox = true
 snowMakingIce = true
@@ -18,8 +21,5 @@ replaceWorldFeature = true
 sustainGrassIfLayerMoreThanOne = true
 #If you want to uninstall this mod, you probably want to make snow-covered blocks back to normal via random tick.
 retainOriginalBlocks = false
-#9 = Unlimited
-#Range: 1 ~ 9
-snowAccumulationMaxLayers = 8
 advancedBlockInteraction = true
 

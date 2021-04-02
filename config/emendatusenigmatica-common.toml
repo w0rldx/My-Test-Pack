@@ -7,13 +7,13 @@
 		generate_in_the_overworld = true
 		#Baseline Y-Level [Default: 60]
 		#Range: 0 ~ 256
-		overworld_base = 60
+		overworld_base = 80
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 60]
 		#Range: 0 ~ 256
-		overworld_spread = 60
+		overworld_spread = 100
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		overworld_count = 15
+		overworld_count = 20
 		#Configure the ore Vein Size [Default: 17]
 		#Range: 0 ~ 64
 		overworld_size = 17
@@ -25,24 +25,24 @@
 
 	["Coal Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 90]
 		#Range: 0 ~ 128
-		nether_base = 90
+		nether_base = 70
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 60]
 		#Range: 0 ~ 128
 		nether_spread = 60
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		nether_count = 15
+		nether_count = 4
 		#Ore Vein Size [Default: 17]
 		#Range: 0 ~ 64
 		nether_size = 17
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["byg:embur_bog", "byg:weeping_mire"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Coal Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -55,10 +55,10 @@
 		end_spread = 60
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		end_count = 15
+		end_count = 6
 		#Ore Vein Size [Default: 17]
 		#Range: 0 ~ 64
-		end_size = 17
+		end_size = 18
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		end_biome_blacklist = []
@@ -72,13 +72,13 @@
 		generate_in_the_overworld = true
 		#Baseline Y-Level [Default: 32]
 		#Range: 0 ~ 256
-		overworld_base = 32
+		overworld_base = 75
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 32]
 		#Range: 0 ~ 256
-		overworld_spread = 32
+		overworld_spread = 70
 		#Average Ores per Chunk [Default: 17]
 		#Range: 0 ~ 64
-		overworld_count = 17
+		overworld_count = 28
 		#Configure the ore Vein Size [Default: 11]
 		#Range: 0 ~ 64
 		overworld_size = 11
@@ -99,7 +99,7 @@
 		nether_spread = 32
 		#Average Ores per Chunk [Default: 17]
 		#Range: 0 ~ 64
-		nether_count = 17
+		nether_count = 5
 		#Ore Vein Size [Default: 11]
 		#Range: 0 ~ 64
 		nether_size = 11
@@ -111,7 +111,7 @@
 
 	["Iron Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 52]
 		#Range: 0 ~ 256
 		end_base = 52
@@ -120,15 +120,15 @@
 		end_spread = 32
 		#Average Ores per Chunk [Default: 17]
 		#Range: 0 ~ 64
-		end_count = 17
+		end_count = 2
 		#Ore Vein Size [Default: 11]
 		#Range: 0 ~ 64
-		end_size = 11
+		end_size = 19
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["byg:viscal_isles", "byg:ivis_fields"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Gold Config"]
 
@@ -143,10 +143,10 @@
 		overworld_spread = 16
 		#Average Ores per Chunk [Default: 7]
 		#Range: 0 ~ 64
-		overworld_count = 7
+		overworld_count = 4
 		#Configure the ore Vein Size [Default: 8]
 		#Range: 0 ~ 64
-		overworld_size = 8
+		overworld_size = 10
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -155,24 +155,24 @@
 
 	["Gold Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 46]
 		#Range: 0 ~ 128
 		nether_base = 46
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 16]
 		#Range: 0 ~ 128
-		nether_spread = 16
+		nether_spread = 32
 		#Average Ores per Chunk [Default: 7]
 		#Range: 0 ~ 64
-		nether_count = 7
+		nether_count = 6
 		#Ore Vein Size [Default: 8]
 		#Range: 0 ~ 64
-		nether_size = 8
+		nether_size = 13
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Gold Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -229,10 +229,10 @@
 		nether_spread = 8
 		#Average Ores per Chunk [Default: 3]
 		#Range: 0 ~ 64
-		nether_count = 3
+		nether_count = 2
 		#Ore Vein Size [Default: 8]
 		#Range: 0 ~ 64
-		nether_size = 8
+		nether_size = 11
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -241,7 +241,7 @@
 
 	["Diamond Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 28]
 		#Range: 0 ~ 256
 		end_base = 28
@@ -256,9 +256,9 @@
 		end_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["byg:purpur_peaks", "byg:ethereal_islands", "betterendforge:crystal_mountains", "betterendforge:umbrella_jungle"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Emerald Config"]
 
@@ -294,10 +294,10 @@
 		nether_spread = 56
 		#Average Ores per Chunk [Default: 3]
 		#Range: 0 ~ 64
-		nether_count = 3
+		nether_count = 2
 		#Ore Vein Size [Default: 4]
 		#Range: 0 ~ 64
-		nether_size = 4
+		nether_size = 13
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -306,7 +306,7 @@
 
 	["Emerald Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 176]
 		#Range: 0 ~ 256
 		end_base = 176
@@ -315,15 +315,15 @@
 		end_spread = 56
 		#Average Ores per Chunk [Default: 3]
 		#Range: 0 ~ 64
-		end_count = 3
+		end_count = 2
 		#Ore Vein Size [Default: 4]
 		#Range: 0 ~ 64
-		end_size = 4
+		end_size = 11
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["byg:shulkren_forest", "byg:ethereal_islands", "betterendforge:blossoming_spires", "betterendforge:crystal_mountains"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Lapis Lazuli Config"]
 
@@ -362,7 +362,7 @@
 		nether_count = 4
 		#Ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		nether_size = 7
+		nether_size = 10
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -371,7 +371,7 @@
 
 	["Lapis Lazuli Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 28]
 		#Range: 0 ~ 256
 		end_base = 28
@@ -380,15 +380,15 @@
 		end_spread = 8
 		#Average Ores per Chunk [Default: 4]
 		#Range: 0 ~ 64
-		end_count = 4
+		end_count = 3
 		#Ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		end_size = 7
+		end_size = 14
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["byg:shattered_desert", "byg:bulbis_gardens", "betterendforge:megalake", "betterendforge:megalake_grove"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Redstone Config"]
 
@@ -421,18 +421,18 @@
 		nether_base = 38
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 8]
 		#Range: 0 ~ 128
-		nether_spread = 8
+		nether_spread = 18
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		nether_count = 8
+		nether_count = 5
 		#Ore Vein Size [Default: 11]
 		#Range: 0 ~ 64
-		nether_size = 11
+		nether_size = 15
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["byg:glowstone_gardens", "minecraft:crimson_forest"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Redstone Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -445,10 +445,10 @@
 		end_spread = 8
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		end_count = 8
+		end_count = 6
 		#Ore Vein Size [Default: 11]
 		#Range: 0 ~ 64
-		end_size = 11
+		end_size = 17
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		end_biome_blacklist = []
@@ -459,7 +459,7 @@
 
 	["Nether Quartz Config".Overworld]
 		#Activate/Deactivate the Ore Gen in The Overworld [Default: true]
-		generate_in_the_overworld = true
+		generate_in_the_overworld = false
 		#Baseline Y-Level [Default: 60]
 		#Range: 0 ~ 256
 		overworld_base = 60
@@ -480,10 +480,10 @@
 
 	["Nether Quartz Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 90]
 		#Range: 0 ~ 128
-		nether_base = 90
+		nether_base = 60
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 50]
 		#Range: 0 ~ 128
 		nether_spread = 50
@@ -527,16 +527,16 @@
 		generate_in_the_overworld = true
 		#Baseline Y-Level [Default: 52]
 		#Range: 0 ~ 256
-		overworld_base = 52
+		overworld_base = 90
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 8]
 		#Range: 0 ~ 256
-		overworld_spread = 8
+		overworld_spread = 90
 		#Average Ores per Chunk [Default: 17]
 		#Range: 0 ~ 64
-		overworld_count = 17
+		overworld_count = 28
 		#Configure the ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		overworld_size = 7
+		overworld_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -545,7 +545,7 @@
 
 	["Copper Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 82]
 		#Range: 0 ~ 128
 		nether_base = 82
@@ -554,15 +554,15 @@
 		nether_spread = 8
 		#Average Ores per Chunk [Default: 17]
 		#Range: 0 ~ 64
-		nether_count = 17
+		nether_count = 5
 		#Ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		nether_size = 7
+		nether_size = 14
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["byg:sythian_torrids", "byg:withering_woods", "minecraft:warped_forest"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Copper Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -575,10 +575,10 @@
 		end_spread = 8
 		#Average Ores per Chunk [Default: 17]
 		#Range: 0 ~ 64
-		end_count = 17
+		end_count = 6
 		#Ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		end_size = 7
+		end_size = 14
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		end_biome_blacklist = []
@@ -619,10 +619,10 @@
 		nether_spread = 10
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		nether_count = 8
+		nether_count = 5
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		nether_size = 5
+		nether_size = 12
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -631,24 +631,24 @@
 
 	["Aluminum Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 80]
 		#Range: 0 ~ 256
-		end_base = 80
+		end_base = 40
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 10]
 		#Range: 0 ~ 256
 		end_spread = 10
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		end_count = 8
+		end_count = 3
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		end_size = 5
+		end_size = 9
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["betterendforge:chorus_forest", "byg:ivis_fields"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Silver Config"]
 
@@ -684,10 +684,10 @@
 		nether_spread = 4
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		nether_count = 8
+		nether_count = 7
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		nether_size = 5
+		nether_size = 7
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -696,7 +696,7 @@
 
 	["Silver Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 54]
 		#Range: 0 ~ 256
 		end_base = 54
@@ -705,15 +705,15 @@
 		end_spread = 4
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		end_count = 8
+		end_count = 3
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		end_size = 5
+		end_size = 13
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["byg:ethereal_islands", "betterendforge:amber_land"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Lead Config"]
 
@@ -740,24 +740,24 @@
 
 	["Lead Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 66]
 		#Range: 0 ~ 128
 		nether_base = 66
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 4]
 		#Range: 0 ~ 128
-		nether_spread = 4
+		nether_spread = 20
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		nether_count = 8
+		nether_count = 4
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		nether_size = 5
+		nether_size = 13
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["byg:magma_wastes", "byg:wailing_garth", "minecraft:nether_wastes"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Lead Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -770,7 +770,7 @@
 		end_spread = 4
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		end_count = 8
+		end_count = 5
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
 		end_size = 5
@@ -817,7 +817,7 @@
 		nether_count = 8
 		#Ore Vein Size [Default: 4]
 		#Range: 0 ~ 64
-		nether_size = 4
+		nether_size = 6
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -826,7 +826,7 @@
 
 	["Nickel Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 52]
 		#Range: 0 ~ 256
 		end_base = 52
@@ -835,15 +835,15 @@
 		end_spread = 8
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		end_count = 8
+		end_count = 3
 		#Ore Vein Size [Default: 4]
 		#Range: 0 ~ 64
-		end_size = 4
+		end_size = 11
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["byg:cryptic_wastes", "betterendforge:shadow_forest"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Uranium Config"]
 
@@ -870,24 +870,24 @@
 
 	["Uranium Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 42]
 		#Range: 0 ~ 128
-		nether_base = 42
+		nether_base = 63
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 8]
 		#Range: 0 ~ 128
-		nether_spread = 8
+		nether_spread = 12
 		#Average Ores per Chunk [Default: 6]
 		#Range: 0 ~ 64
-		nether_count = 6
+		nether_count = 5
 		#Ore Vein Size [Default: 6]
 		#Range: 0 ~ 64
-		nether_size = 6
+		nether_size = 13
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["byg:magma_wastes", "byg:wailing_garth", "minecraft:nether_wastes"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Uranium Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -900,10 +900,10 @@
 		end_spread = 8
 		#Average Ores per Chunk [Default: 6]
 		#Range: 0 ~ 64
-		end_count = 6
+		end_count = 4
 		#Ore Vein Size [Default: 6]
 		#Range: 0 ~ 64
-		end_size = 6
+		end_size = 13
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		end_biome_blacklist = []
@@ -935,7 +935,7 @@
 
 	["Osmium Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 62]
 		#Range: 0 ~ 128
 		nether_base = 62
@@ -944,15 +944,15 @@
 		nether_spread = 12
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		nether_count = 15
+		nether_count = 4
 		#Ore Vein Size [Default: 6]
 		#Range: 0 ~ 64
-		nether_size = 6
+		nether_size = 11
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["byg:subzero_hypogeal", "minecraft:soul_sand_valley"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Osmium Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -965,10 +965,10 @@
 		end_spread = 12
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		end_count = 15
+		end_count = 5
 		#Ore Vein Size [Default: 6]
 		#Range: 0 ~ 64
-		end_size = 6
+		end_size = 9
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		end_biome_blacklist = []
@@ -982,16 +982,16 @@
 		generate_in_the_overworld = true
 		#Baseline Y-Level [Default: 47]
 		#Range: 0 ~ 256
-		overworld_base = 47
+		overworld_base = 80
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 7]
 		#Range: 0 ~ 256
-		overworld_spread = 7
+		overworld_spread = 50
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		overworld_count = 15
+		overworld_count = 23
 		#Configure the ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		overworld_size = 7
+		overworld_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -1009,10 +1009,10 @@
 		nether_spread = 7
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		nether_count = 15
+		nether_count = 4
 		#Ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		nether_size = 7
+		nether_size = 15
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -1021,7 +1021,7 @@
 
 	["Tin Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 67]
 		#Range: 0 ~ 256
 		end_base = 67
@@ -1030,15 +1030,15 @@
 		end_spread = 7
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		end_count = 15
+		end_count = 3
 		#Ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		end_size = 7
+		end_size = 16
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["byg:viscal_isles", "byg:cryptic_wastes"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Zinc Config"]
 
@@ -1047,10 +1047,10 @@
 		generate_in_the_overworld = true
 		#Baseline Y-Level [Default: 42]
 		#Range: 0 ~ 256
-		overworld_base = 42
+		overworld_base = 64
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 8]
 		#Range: 0 ~ 256
-		overworld_spread = 8
+		overworld_spread = 20
 		#Average Ores per Chunk [Default: 9]
 		#Range: 0 ~ 64
 		overworld_count = 9
@@ -1074,10 +1074,10 @@
 		nether_spread = 8
 		#Average Ores per Chunk [Default: 9]
 		#Range: 0 ~ 64
-		nether_count = 9
+		nether_count = 8
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		nether_size = 5
+		nether_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -1086,7 +1086,7 @@
 
 	["Zinc Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 62]
 		#Range: 0 ~ 256
 		end_base = 62
@@ -1095,21 +1095,21 @@
 		end_spread = 8
 		#Average Ores per Chunk [Default: 9]
 		#Range: 0 ~ 64
-		end_count = 9
+		end_count = 5
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		end_size = 5
+		end_size = 13
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["byg:nightshade_forest", "byg:cryptic_wastes", "betterendforge:dust_wastelands"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Certus Quartz Config"]
 
 	["Certus Quartz Config".Overworld]
 		#Activate/Deactivate the Ore Gen in The Overworld [Default: true]
-		generate_in_the_overworld = true
+		generate_in_the_overworld = false
 		#Baseline Y-Level [Default: 32]
 		#Range: 0 ~ 256
 		overworld_base = 32
@@ -1248,10 +1248,10 @@
 		overworld_spread = 16
 		#Average Ores per Chunk [Default: 5]
 		#Range: 0 ~ 64
-		overworld_count = 5
+		overworld_count = 2
 		#Configure the ore Vein Size [Default: 9]
 		#Range: 0 ~ 64
-		overworld_size = 9
+		overworld_size = 14
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -1260,24 +1260,24 @@
 
 	["Fluorite Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 46]
 		#Range: 0 ~ 128
-		nether_base = 46
+		nether_base = 36
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 16]
 		#Range: 0 ~ 128
 		nether_spread = 16
 		#Average Ores per Chunk [Default: 5]
 		#Range: 0 ~ 64
-		nether_count = 5
+		nether_count = 3
 		#Ore Vein Size [Default: 9]
 		#Range: 0 ~ 64
-		nether_size = 9
+		nether_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["byg:glowstone_gardens", "minecraft:warped_forest"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Fluorite Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -1290,10 +1290,10 @@
 		end_spread = 16
 		#Average Ores per Chunk [Default: 5]
 		#Range: 0 ~ 64
-		end_count = 5
+		end_count = 3
 		#Ore Vein Size [Default: 9]
 		#Range: 0 ~ 64
-		end_size = 9
+		end_size = 16
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		end_biome_blacklist = []
@@ -1307,16 +1307,16 @@
 		generate_in_the_overworld = true
 		#Baseline Y-Level [Default: 100]
 		#Range: 0 ~ 256
-		overworld_base = 100
+		overworld_base = 80
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 60]
 		#Range: 0 ~ 256
-		overworld_spread = 60
+		overworld_spread = 100
 		#Average Ores per Chunk [Default: 2]
 		#Range: 0 ~ 64
-		overworld_count = 2
+		overworld_count = 15
 		#Configure the ore Vein Size [Default: 18]
 		#Range: 0 ~ 64
-		overworld_size = 18
+		overworld_size = 17
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -1325,13 +1325,13 @@
 
 	["Bitumen Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 130]
 		#Range: 0 ~ 128
 		nether_base = 128
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 60]
 		#Range: 0 ~ 128
-		nether_spread = 60
+		nether_spread = 20
 		#Average Ores per Chunk [Default: 2]
 		#Range: 0 ~ 64
 		nether_count = 2
@@ -1340,9 +1340,9 @@
 		nether_size = 18
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["byg:embur_bog", "byg:weeping_mire"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Bitumen Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -1355,7 +1355,7 @@
 		end_spread = 60
 		#Average Ores per Chunk [Default: 2]
 		#Range: 0 ~ 64
-		end_count = 2
+		end_count = 3
 		#Ore Vein Size [Default: 18]
 		#Range: 0 ~ 64
 		end_size = 18
@@ -1390,24 +1390,24 @@
 
 	["Cinnabar Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 40]
 		#Range: 0 ~ 128
-		nether_base = 40
+		nether_base = 20
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 6]
 		#Range: 0 ~ 128
-		nether_spread = 6
+		nether_spread = 7
 		#Average Ores per Chunk [Default: 4]
 		#Range: 0 ~ 64
-		nether_count = 4
+		nether_count = 2
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		nether_size = 5
+		nether_size = 9
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["byg:glowstone_gardens", "minecraft:crimson_forest"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Cinnabar Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -1420,10 +1420,10 @@
 		end_spread = 6
 		#Average Ores per Chunk [Default: 4]
 		#Range: 0 ~ 64
-		end_count = 4
+		end_count = 2
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		end_size = 5
+		end_size = 15
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		end_biome_blacklist = []
@@ -1467,7 +1467,7 @@
 		nether_count = 2
 		#Ore Vein Size [Default: 22]
 		#Range: 0 ~ 64
-		nether_size = 22
+		nether_size = 19
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -1476,7 +1476,7 @@
 
 	["Apatite Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 116]
 		#Range: 0 ~ 256
 		end_base = 116
@@ -1485,15 +1485,15 @@
 		end_spread = 32
 		#Average Ores per Chunk [Default: 2]
 		#Range: 0 ~ 64
-		end_count = 2
+		end_count = 1
 		#Ore Vein Size [Default: 22]
 		#Range: 0 ~ 64
-		end_size = 22
+		end_size = 29
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["byg:shattered_desert", "byg:bulbis_gardens", "betterendforge:foggy_mushroomland"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Sulfur Config"]
 
@@ -1520,7 +1520,7 @@
 
 	["Sulfur Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 38]
 		#Range: 0 ~ 128
 		nether_base = 38
@@ -1532,16 +1532,16 @@
 		nether_count = 3
 		#Ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		nether_size = 7
+		nether_size = 18
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["byg:brimstone_caverns", "byg:embur_bog"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Sulfur Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 28]
 		#Range: 0 ~ 256
 		end_base = 28
@@ -1550,15 +1550,15 @@
 		end_spread = 8
 		#Average Ores per Chunk [Default: 3]
 		#Range: 0 ~ 64
-		end_count = 3
+		end_count = 2
 		#Ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		end_size = 7
+		end_size = 25
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["betterendforge:sulphur_springs"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Potassium Nitrate Config"]
 
@@ -1573,10 +1573,10 @@
 		overworld_spread = 7
 		#Average Ores per Chunk [Default: 4]
 		#Range: 0 ~ 64
-		overworld_count = 4
+		overworld_count = 1
 		#Configure the ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		overworld_size = 5
+		overworld_size = 12
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -1585,7 +1585,7 @@
 
 	["Potassium Nitrate Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 55]
 		#Range: 0 ~ 128
 		nether_base = 55
@@ -1594,15 +1594,15 @@
 		nether_spread = 7
 		#Average Ores per Chunk [Default: 4]
 		#Range: 0 ~ 64
-		nether_count = 4
+		nether_count = 1
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		nether_size = 5
+		nether_size = 12
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		nether_biome_blacklist = []
+		nether_biome_blacklist = ["minecraft:basalt_deltas"]
 		#Invert Blacklist to Whitelist [Default: false]
-		nether_biome_list_invert = false
+		nether_biome_list_invert = true
 
 	["Potassium Nitrate Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
@@ -1615,10 +1615,10 @@
 		end_spread = 7
 		#Average Ores per Chunk [Default: 4]
 		#Range: 0 ~ 64
-		end_count = 4
+		end_count = 3
 		#Ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		end_size = 5
+		end_size = 6
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		end_biome_blacklist = []
@@ -1659,10 +1659,10 @@
 		nether_spread = 13
 		#Average Ores per Chunk [Default: 5]
 		#Range: 0 ~ 64
-		nether_count = 5
+		nether_count = 4
 		#Ore Vein Size [Default: 6]
 		#Range: 0 ~ 64
-		nether_size = 6
+		nether_size = 9
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -1671,7 +1671,7 @@
 
 	["Arcane Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 53]
 		#Range: 0 ~ 256
 		end_base = 53
@@ -1680,15 +1680,15 @@
 		end_spread = 13
 		#Average Ores per Chunk [Default: 5]
 		#Range: 0 ~ 64
-		end_count = 5
+		end_count = 3
 		#Ore Vein Size [Default: 6]
 		#Range: 0 ~ 64
-		end_size = 6
+		end_size = 12
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
-		end_biome_blacklist = []
+		end_biome_blacklist = ["byg:purpur_peaks", "byg:bulbis_gardens", "betterendforge:blossoming_spires"]
 		#Invert Blacklist to Whitelist [Default: false]
-		end_biome_list_invert = false
+		end_biome_list_invert = true
 
 ["Dimensional Shard Config"]
 
@@ -1715,19 +1715,19 @@
 
 	["Dimensional Shard Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 40]
 		#Range: 0 ~ 128
-		nether_base = 40
+		nether_base = 60
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 10]
 		#Range: 0 ~ 128
-		nether_spread = 10
+		nether_spread = 40
 		#Average Ores per Chunk [Default: 2]
 		#Range: 0 ~ 64
-		nether_count = 2
+		nether_count = 8
 		#Ore Vein Size [Default: 2]
 		#Range: 0 ~ 64
-		nether_size = 2
+		nether_size = 3
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -1736,19 +1736,19 @@
 
 	["Dimensional Shard Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 30]
 		#Range: 0 ~ 256
-		end_base = 30
+		end_base = 50
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 10]
 		#Range: 0 ~ 256
-		end_spread = 10
+		end_spread = 40
 		#Average Ores per Chunk [Default: 2]
 		#Range: 0 ~ 64
-		end_count = 2
+		end_count = 7
 		#Ore Vein Size [Default: 2]
 		#Range: 0 ~ 64
-		end_size = 2
+		end_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		end_biome_blacklist = []
@@ -1760,13 +1760,13 @@
 	active = true
 
 ["Stratum Config: minecraft_andesite"]
-	active = false
+	active = true
 
 ["Stratum Config: minecraft_granite"]
-	active = false
+	active = true
 
 ["Stratum Config: minecraft_diorite"]
-	active = false
+	active = true
 
 ["Stratum Config: minecraft_sand"]
 	active = false
@@ -1775,70 +1775,70 @@
 	active = false
 
 ["Stratum Config: minecraft_netherrack"]
-	active = false
+	active = true
 
 ["Stratum Config: minecraft_blackstone"]
-	active = false
+	active = true
 
 ["Stratum Config: minecraft_basalt"]
-	active = false
+	active = true
 
 ["Stratum Config: minecraft_soul_soil"]
-	active = false
+	active = true
 
 ["Stratum Config: minecraft_end_stone"]
-	active = false
+	active = true
 
 ["Stratum Config: create_gabbro"]
-	active = false
+	active = true
 
 ["Stratum Config: create_limestone"]
-	active = false
+	active = true
 
 ["Stratum Config: create_scoria"]
-	active = false
+	active = true
 
 ["Stratum Config: create_weathered_limestone"]
-	active = false
+	active = true
 
 ["Stratum Config: quark_jasper"]
-	active = false
+	active = true
 
 ["Stratum Config: quark_marble"]
-	active = false
+	active = true
 
 ["Stratum Config: quark_slate"]
-	active = false
+	active = true
 
 ["Stratum Config: byg_mossy_stone"]
-	active = false
+	active = true
 
 ["Stratum Config: byg_brimstone"]
-	active = false
+	active = true
 
 ["Stratum Config: byg_subzero_ash"]
-	active = false
+	active = true
 
 ["Stratum Config: byg_blue_netherrack"]
-	active = false
+	active = true
 
 ["Stratum Config: byg_nylium_soul_soil"]
-	active = false
+	active = true
 
 ["Stratum Config: byg_ether_stone"]
-	active = false
+	active = true
 
 ["Stratum Config: byg_cryptic_stone"]
-	active = false
+	active = true
 
 ["Stratum Config: betterend_flavolite"]
-	active = false
+	active = true
 
 ["Stratum Config: betterend_sulphuric_rock"]
-	active = false
+	active = true
 
 ["Stratum Config: betterend_violecite"]
-	active = false
+	active = true
 
 ["Stratum Config: astral_marble"]
 	active = false
