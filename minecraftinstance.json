@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "0001-01-01T00:00:00",
+  "lastPlayed": "2021-04-02T02:36:21.9247927Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.5",
@@ -5603,28 +5603,28 @@
       "addonID": 353051,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
       "installedFile": {
-        "id": 3255506,
-        "displayName": "GameMenuModOption-1.16.4-1.6",
-        "fileName": "GameMenuModOption-1.16.4-1.6.jar",
-        "fileDate": "2021-03-30T09:29:00.803Z",
-        "fileLength": 12014,
+        "id": 3256467,
+        "displayName": "GameMenuModOption-1.16.4-1.7",
+        "fileName": "GameMenuModOption-1.16.4-1.7.jar",
+        "fileDate": "2021-03-31T07:42:54.203Z",
+        "fileLength": 12060,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3255/506/GameMenuModOption-1.16.4-1.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3256/467/GameMenuModOption-1.16.4-1.7.jar",
         "isAlternate": false,
-        "alternateFileId": 3255507,
+        "alternateFileId": 3256468,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4118046106,
+            "fingerprint": 3022822116,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 1437832716,
+            "fingerprint": 3657819319,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5641,7 +5641,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1523962655,
+        "packageFingerprint": 2269964750,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -5656,12 +5656,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "GameMenuModOption-1.16.4-1.6.jar"
+        "FileNameOnDisk": "GameMenuModOption-1.16.4-1.7.jar"
       },
       "dateInstalled": "2021-04-02T01:59:10.1122448Z",
-      "dateUpdated": "2021-04-02T01:59:10.1142718Z",
-      "dateLastUpdateAttempted": "2021-04-02T01:59:10.1142718Z",
-      "status": 3,
+      "dateUpdated": "2021-04-02T02:35:52.1079815Z",
+      "dateLastUpdateAttempted": "2021-04-02T02:35:52.1079815Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13807,6 +13807,71 @@
       "dateInstalled": "2021-04-02T02:00:20.5770134Z",
       "dateUpdated": "2021-04-02T02:00:20.5795491Z",
       "dateLastUpdateAttempted": "2021-04-02T02:00:20.5795491Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 413810,
+      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
+      "installedFile": {
+        "id": 3257285,
+        "displayName": "Enchanted Tools v1.5.zip",
+        "fileName": "Enchanted Tools v1.5.zip",
+        "fileDate": "2021-04-01T01:07:24.477Z",
+        "fileLength": 224613,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3257/285/Enchanted Tools v1.5.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "assets",
+            "fingerprint": 739114962,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1124928210,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.png",
+            "fingerprint": 3970443192,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1894884485,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Enchanted Tools v1.5.zip"
+      },
+      "dateInstalled": "2021-04-02T02:31:02.6080405Z",
+      "dateUpdated": "2021-04-02T02:31:02.6105748Z",
+      "dateLastUpdateAttempted": "2021-04-02T02:31:02.6105748Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
