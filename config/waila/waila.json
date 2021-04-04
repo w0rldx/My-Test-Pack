@@ -20,7 +20,7 @@
     "overlaySquare": false,
     "flipMainHand": false,
     "color": {
-      "alpha": 0,
+      "alpha": 50,
       "themes": [
         {
           "id": "waila:dark",

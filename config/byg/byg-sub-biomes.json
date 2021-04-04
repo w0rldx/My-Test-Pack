@@ -390,6 +390,24 @@
       "beach": "minecraft:beach",
       "edge": ""
     },
+    "byg:skyris_highlands_clearing": {
+      "dictionary": "COLD,CONIFEROUS,MOUNTAIN,OVERWORLD",
+      "river": "byg:skyris_highlands_clearing",
+      "beach": "minecraft:beach",
+      "edge": ""
+    },
+    "byg:skyris_peaks": {
+      "dictionary": "COLD,CONIFEROUS,MOUNTAIN,OVERWORLD",
+      "river": "byg:skyris_peaks",
+      "beach": "minecraft:beach",
+      "edge": ""
+    },
+    "byg:skyris_steeps": {
+      "dictionary": "COLD,CONIFEROUS,MOUNTAIN,OVERWORLD",
+      "river": "byg:skyris_steeps",
+      "beach": "minecraft:beach",
+      "edge": ""
+    },
     "byg:snowy_black_beach": {
       "dictionary": "BEACH,OVERWORLD,SNOWY",
       "river": "minecraft:frozen_river",
