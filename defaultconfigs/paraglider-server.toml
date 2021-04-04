@@ -7,7 +7,7 @@ ascendingWinds = true
 #Same property cannot be specified multiple times. Wind sources with any invalid part will be excluded.
 windSources = ["fire", "campfire#lit=true", "soul_campfire#lit=true"]
 #Paragliding will consume stamina.
-paraglidingConsumesStamina = true
+paraglidingConsumesStamina = false
 #Actions other than paragliding will consume stamina.
 runningAndSwimmingConsumesStamina = false
 

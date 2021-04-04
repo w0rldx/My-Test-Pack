@@ -6,16 +6,16 @@ maxBack = 10
 maxHomes = 1
 #/back cooldown in seconds
 #Range: 0 ~ 604800
-backCooldown = 30
+backCooldown = 600
 #/spawn cooldown in seconds
 #Range: 0 ~ 604800
-spawnCooldown = 10
+spawnCooldown = 600
 #/warp cooldown in seconds
 #Range: 0 ~ 604800
-warpCooldown = 10
+warpCooldown = 1800
 #/home cooldown in seconds
 #Range: 0 ~ 604800
-homeCooldown = 10
+homeCooldown = 180
 #/tpa cooldown in seconds
 #Range: 0 ~ 604800
 tpaCooldown = 10
@@ -30,5 +30,5 @@ rtpMaxTries = 100
 rtpMinDistance = 1000.0
 #/rtp max distance from spawn point
 #Range: 0.0 ~ 3.0E7
-rtpMaxDistance = 100000.0
+rtpMaxDistance = 10000.0
 

@@ -2,19 +2,19 @@
 ["Tweak World Generation Rates"]
 	#Chance of berry bushes generating in the overworld. Higher numbers indicate a lower probability (Default: 300)
 	#Range: 1 ~ 1000000000
-	"Probability of berry bushes generating" = 2000
+	"Probability of berry bushes generating" = 800
 	#Chance of opuntias generating in deserts. Higher numbers indicate a lower probability (Default: 150)
 	#Range: 1 ~ 1000000000
-	"Probability of opuntias generating" = 1500
+	"Probability of opuntias generating" = 1000
 	#Chance of fruit trees generating in the overworld. Higher numbers indicate a lower probability (Default: 1500)
 	#Range: 1 ~ 1000000000
-	"Probability of fruit trees generating" = 10000
+	"Probability of fruit trees generating" = 1200
 	#Chance of wild crops generating in the overworld. Higher numbers indicate a lower probability (Default: 100)
 	#Range: 1 ~ 1000000000
-	"Probability of wild crops generating" = 3000
+	"Probability of wild crops generating" = 400
 	#Chance of wild plants generating in the overworld. Higher numbers indicate a lower probability (Default: 800)
 	#Range: 1 ~ 1000000000
-	"Probability of wild plants generating" = 8000
+	"Probability of wild plants generating" = 1600
 
 ["Enable/Disable World Generation"]
 	#Indicates whether berry bushes should generate
@@ -24,21 +24,15 @@
 	#Indicates whether fruit trees should generate
 	"Generate fruit trees" = true
 	#Enable this feature to avoid conflicts with other mods that add grass drops (And disable grass drops).
-	"Generate wild crops" = false
+	"Generate wild crops" = true
 	#Indicates whether wild plants, such as quinoa and cumin, should generate
 	"Generate wild plants" = true
-	#Indicates whether vanilla pumpkin and melon stems should be replaced by a single block crop
-	"Replace stems" = false
 
 ["Miscellaneous Features"]
-	#Configures if right-click harvesting of crops should be enabled. Which crops are affected by right-clicking can be configured in the "Right-click Harvesting Settings" section.
-	#DISABLED -> disables right-click harvesting feature for all crops completely
-	#ENABLED_DROP -> loot is dropped on the ground
-	#ENABLED_SMART -> loot is placed in the player's inventory
-	#Allowed Values: DISABLED, ENABLED_DROP, ENABLED_SMART
-	"Right-Click Harvest" = "ENABLED_DROP"
-	#Configures if Double Crops (i.e. Corn, Sorghum, Kenaf) slow down living entities (Default: false)
-	"Double Crops Slow Down Motion" = false
+	#Indicates whether right-click harvesting crops should be enabled. Respective parts of the right-clicking function can be enabled/disabled below.
+	"Enable right-click harvesting for crops" = true
+	#Smart harvesting allows right-click harvested items to be placed directly in the player's inventory. Enabling this option will automatically disable normal right-click harvesting. Indicates whether smart-harvesting on crops should be enabled
+	"Enable smart harvest for crops" = false
 
 ["Right-click Harvesting Settings"]
 	#Indicates whether right-click harvesting crops should be enabled
