@@ -1694,7 +1694,7 @@
 
 	["Dimensional Shard Config".Overworld]
 		#Activate/Deactivate the Ore Gen in The Overworld [Default: true]
-		generate_in_the_overworld = false
+		generate_in_the_overworld = true
 		#Baseline Y-Level [Default: 10]
 		#Range: 0 ~ 256
 		overworld_base = 10
@@ -1715,7 +1715,7 @@
 
 	["Dimensional Shard Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 40]
 		#Range: 0 ~ 128
 		nether_base = 60
@@ -1736,7 +1736,7 @@
 
 	["Dimensional Shard Config"."The End"]
 		#Activate/Deactivate the Ore Gen in The End [Default: false]
-		generate_in_the_end = false
+		generate_in_the_end = true
 		#Baseline Y-Level [Default: 30]
 		#Range: 0 ~ 256
 		end_base = 50

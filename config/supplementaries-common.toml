@@ -86,7 +86,7 @@
 		sack_increment = 2
 		#additional sack slots divided by 2. Number of slots will be 5 + additional_slots*2
 		#Range: 0 ~ 2
-		additional_slots = 0
+		additional_slots = 1
 
 	[blocks.safe]
 		#makes safes only breakable by their owner or by a player in creative

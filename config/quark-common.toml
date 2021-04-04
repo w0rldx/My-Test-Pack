@@ -403,6 +403,9 @@
 		#Set this to false to prevent dispensers from using infinite water buckets
 		"Allow Dispensers To Use" = true
 
+	[tweaks.note_block_mob_sounds]
+		"Enable Vocaloid" = true
+
 	[tweaks.pat_the_dogs]
 		#How many ticks it takes for a dog to want affection after being pet/tamed; leave -1 to disable
 		"Dogs Want Love" = -1
