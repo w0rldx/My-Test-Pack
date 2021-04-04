@@ -49,6 +49,24 @@
         "salt": 10387313,
         "disabled": false
       },
+      "eidolon:catacomb": {
+        "spacing": 11,
+        "separation": 7,
+        "salt": 1347,
+        "disabled": false
+      },
+      "eidolon:lab": {
+        "spacing": 7,
+        "separation": 5,
+        "salt": 1337,
+        "disabled": false
+      },
+      "eidolon:stray_tower": {
+        "spacing": 16,
+        "separation": 8,
+        "salt": 1341,
+        "disabled": false
+      },
       "minecraft:buried_treasure": {
         "spacing": 1,
         "separation": 0,
@@ -137,7 +155,7 @@
         "spacing": 32,
         "separation": 16,
         "salt": 1464189184,
-        "disabled": false
+        "disabled": true
       },
       "repurposed_structures:igloo_grassy": {
         "spacing": 20,
@@ -437,6 +455,48 @@
         "spacing": 70,
         "separation": 23,
         "salt": 1689777,
+        "disabled": false
+      },
+      "valhelsia_structures:castle": {
+        "spacing": 22,
+        "separation": 8,
+        "salt": 16987356,
+        "disabled": false
+      },
+      "valhelsia_structures:castle_ruin": {
+        "spacing": 24,
+        "separation": 8,
+        "salt": 14357618,
+        "disabled": false
+      },
+      "valhelsia_structures:desert_house": {
+        "spacing": 18,
+        "separation": 8,
+        "salt": 14862926,
+        "disabled": false
+      },
+      "valhelsia_structures:forge": {
+        "spacing": 14,
+        "separation": 8,
+        "salt": 12857691,
+        "disabled": false
+      },
+      "valhelsia_structures:player_house": {
+        "spacing": 12,
+        "separation": 8,
+        "salt": 17357644,
+        "disabled": false
+      },
+      "valhelsia_structures:small_dungeon": {
+        "spacing": 14,
+        "separation": 8,
+        "salt": 23498568,
+        "disabled": false
+      },
+      "valhelsia_structures:tower_ruin": {
+        "spacing": 28,
+        "separation": 8,
+        "salt": 24357670,
         "disabled": false
       }
     }
