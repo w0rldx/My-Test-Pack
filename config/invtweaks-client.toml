@@ -58,7 +58,7 @@
 
 	[[sorting.category]]
 		name = "cheapBlocks"
-		spec = ["/tag:minecraft:cobblestone", "/tag:minecraft:dirt"]
+		spec = ["/tag:forge:cobblestone", "/tag:forge:dirt"]
 
 	[[sorting.category]]
 		name = "blocks"
