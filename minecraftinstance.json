@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-04-05T21:32:10.2682053Z",
+  "lastPlayed": "2021-04-05T23:12:00.9991674Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.5",
@@ -5817,7 +5817,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 314002,
@@ -17899,7 +17899,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 457570,
@@ -17973,7 +17973,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 252042,
@@ -22777,24 +22777,6 @@
       "dateInstalled": "2021-04-04T07:00:29.5969632Z",
       "dateUpdated": "2021-04-04T07:00:29.5979232Z",
       "dateLastUpdateAttempted": "2021-04-04T07:00:29.5979232Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 438784,
-      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": null,
-      "dateInstalled": "2021-04-02T02:01:18.7482446Z",
-      "dateUpdated": "2021-04-02T02:01:18.7517902Z",
-      "dateLastUpdateAttempted": "2021-04-02T02:01:18.7517902Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
