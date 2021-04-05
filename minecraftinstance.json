@@ -12361,24 +12361,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 355649,
-      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": null,
-      "dateInstalled": "2021-04-02T02:00:07.5007961Z",
-      "dateUpdated": "2021-04-02T02:00:07.5028201Z",
-      "dateLastUpdateAttempted": "2021-04-02T02:00:07.5028201Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 256247,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
       "installedFile": {
@@ -13461,112 +13443,7 @@
     {
       "addonID": 402616,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": {
-        "id": 3256084,
-        "displayName": "Version 3.0.4",
-        "fileName": "brazier-3.0.4-forge.jar",
-        "fileDate": "2021-03-30T20:40:51.643Z",
-        "fileLength": 289514,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3256/84/brazier-3.0.4-forge.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 348521,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 419699,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "data",
-            "fingerprint": 2205557932,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "brazier-common.mixins.json",
-            "fingerprint": 3223685831,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3574786893,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "brazier-common-refmap.json",
-            "fingerprint": 1612916742,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 551361805,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "brazier-forge.mixins.json",
-            "fingerprint": 2386951660,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2467641586,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2310287169,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "architectury_inject_brazier_common_a6a0c7706e6d47b8ad016409e716d607",
-            "fingerprint": 2186945056,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3921436650,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "brazier-3.0.4-forge.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-04-02T02:00:17.6401055Z",
       "dateUpdated": "2021-04-02T02:00:17.6431455Z",
       "dateLastUpdateAttempted": "2021-04-02T02:00:17.6431455Z",
