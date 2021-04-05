@@ -4704,24 +4704,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 399945,
-      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": null,
-      "dateInstalled": "2021-04-02T01:59:07.0965697Z",
-      "dateUpdated": "2021-04-02T01:59:07.1001169Z",
-      "dateLastUpdateAttempted": "2021-04-02T01:59:07.1001169Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 379849,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
       "installedFile": {
@@ -22911,78 +22893,7 @@
     {
       "addonID": 420913,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": {
-        "id": 3224252,
-        "displayName": "smoothboot-forge-1.16.4-1.2.2.jar",
-        "fileName": "smoothboot-forge-1.16.4-1.2.2.jar",
-        "fileDate": "2021-03-02T18:49:53.913Z",
-        "fileLength": 84744,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3224/252/smoothboot-forge-1.16.4-1.2.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1423858599,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "io",
-            "fingerprint": 839167598,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "icon.png",
-            "fingerprint": 1643735788,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2140068133,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "smoothboot.mixins.json",
-            "fingerprint": 176279091,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "smoothboot.refmap.json",
-            "fingerprint": 1493072104,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1408340562,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.1",
-          "1.16",
-          "1.16.5",
-          "Forge",
-          "1.16.4",
-          "1.16.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "smoothboot-forge-1.16.4-1.2.2.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-04-02T02:01:19.0370408Z",
       "dateUpdated": "2021-04-02T02:01:19.0405874Z",
       "dateLastUpdateAttempted": "2021-04-02T02:01:19.0405874Z",
