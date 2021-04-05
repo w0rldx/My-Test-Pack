@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-04-05T21:17:26.4042634Z",
+  "lastPlayed": "2021-04-05T21:32:10.2682053Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.5",
@@ -3919,7 +3919,7 @@
   "name": "Xe Ultima Dev Version",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-04-04T11:07:22.7724137Z",
+  "lastPreviousMatchUpdate": "2021-04-05T21:39:10.6855658Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -22791,93 +22791,7 @@
     {
       "addonID": 438784,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": {
-        "id": 3178925,
-        "displayName": "Adorn 1.13.1 for 1.16.4",
-        "fileName": "Adorn-1.13.1+1.16.4-forge.jar",
-        "fileDate": "2021-01-23T21:20:02.657Z",
-        "fileLength": 1527768,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3178/925/Adorn-1.13.1+1.16.4-forge.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 351264,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1087111212,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3537431800,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mixins.adorn.json",
-            "fingerprint": 1696435448,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "icon.png",
-            "fingerprint": 1630734814,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 184546902,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2332215119,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "juuxel",
-            "fingerprint": 1402292632,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "Adorn-refmap.json",
-            "fingerprint": 2696459783,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1214699499,
-        "gameVersion": [
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Adorn-1.13.1+1.16.4-forge.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-04-02T02:01:18.7482446Z",
       "dateUpdated": "2021-04-02T02:01:18.7517902Z",
       "dateLastUpdateAttempted": "2021-04-02T02:01:18.7517902Z",
