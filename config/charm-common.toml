@@ -308,7 +308,7 @@
 	#If true, precious ores will spawn in the central mineshaft room.
 	"Room blocks" = true
 	#If true, loot crates will be added to mineshaft corridors.
-	"Add crates" = true
+	"Add crates" = false
 
 [MusicImprovements]
 	#If true, the six Creative music tracks may play in survival mode.
