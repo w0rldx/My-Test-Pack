@@ -60,3 +60,18 @@ setMode = (player) => {
         player.data.ftbquests.reset('0000000000000FEC');
     }
 };
+
+recipetypes_crushing = (event, recipe) => {
+    event.custom({
+        type: 'industrialforegoing:crusher',
+        input: recipe.input,
+        output: recipe.output
+    });
+    event.recipes.thermal
+        .pulverizer([recipe.output, recipe.secondary_output], recipe.input)
+        .experience(recipe.experience);
+    event.recipes.mekanism.enriching(recipe.output, recipe.input);
+    event.recipes.immersiveengineering.crusher(recipe.output, recipe.input, recipe.secondary_output);
+    event.recipes.create.milling([recipe.output, recipe.secondary_output], recipe.input);
+};
+

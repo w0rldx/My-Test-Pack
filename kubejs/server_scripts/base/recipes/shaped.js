@@ -101,31 +101,6 @@ events.listen('recipes', (event) => {
         shapedRecipe(Item.of('mekanism:ingot_steel', 2), ['AA'], {
             A: 'emendatusenigmatica:steel_ingot'
         }),
-        // Remove in 0.4.0
-        shapedRecipe(Item.of('minecraft:lapis_lazuli', 4), ['AAA', 'ABA', 'AAA'], {
-            A: '#forge:gems/certus_quartz',
-            B: '#forge:dyes/blue'
-        }),
-        shapedRecipe(Item.of('minecraft:diamond', 1), ['AAA', 'ABA', 'AAA'], {
-            A: '#forge:gems/certus_quartz',
-            B: '#forge:dyes/light_blue'
-        }),
-        shapedRecipe(Item.of('minecraft:emerald', 2), ['AAA', 'ABA', 'AAA'], {
-            A: '#forge:gems/certus_quartz',
-            B: '#forge:dyes/green'
-        }),
-        shapedRecipe(Item.of('minecraft:lapis_lazuli', 4), ['AAA', 'ABA', 'AAA'], {
-            A: '#forge:gems/charged_certus_quartz',
-            B: '#forge:dyes/blue'
-        }),
-        shapedRecipe(Item.of('minecraft:diamond', 1), ['AAA', 'ABA', 'AAA'], {
-            A: '#forge:gems/charged_certus_quartz',
-            B: '#forge:dyes/light_blue'
-        }),
-        shapedRecipe(Item.of('minecraft:emerald', 2), ['AAA', 'ABA', 'AAA'], {
-            A: '#forge:gems/charged_certus_quartz',
-            B: '#forge:dyes/green'
-        }),
         shapedRecipe('magicfeather:magicfeather', ['CFC', 'BDB', 'AEA'], {
             A: 'alexsmobs:roadrunner_feather',
             B: '#forge:ingots/enderium',

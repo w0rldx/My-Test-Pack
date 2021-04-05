@@ -692,8 +692,8 @@ function thermal_ore_pulverizing(event, material, ore, dust, gem, shard) {
             break;
         case 'dimensional':
             secondaryMaterial = 'dimensional';
-            stoneOutput = 'betterendforge:endstone_dust';
             primaryOutput = gem;
+            primaryCount = 8;
             break;
         case 'mana':
             secondaryMaterial = 'mana';
