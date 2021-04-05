@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-04-05T20:54:12.7643457Z",
+  "lastPlayed": "2021-04-05T20:57:39.2565216Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.5",
@@ -20801,6 +20801,72 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 293496,
+      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
+      "installedFile": {
+        "id": 3185357,
+        "displayName": "OldJavaWarning-1.16.5-7.0.1.jar",
+        "fileName": "OldJavaWarning-1.16.5-7.0.1.jar",
+        "fileDate": "2021-01-29T07:52:14.72Z",
+        "fileLength": 9672,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3185/357/OldJavaWarning-1.16.5-7.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 3185358,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 863836671,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1769405997,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1061147365,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 213200990,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "OldJavaWarning-1.16.5-7.0.1.jar"
+      },
+      "dateInstalled": "2021-04-05T20:57:28.144308Z",
+      "dateUpdated": "2021-04-05T20:57:28.1452693Z",
+      "dateLastUpdateAttempted": "2021-04-05T20:57:28.1452693Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 319194,
