@@ -4530,87 +4530,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 354143,
-      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": {
-        "id": 3246972,
-        "displayName": "performant-1.16.2-5-3.40m.jar",
-        "fileName": "performant-1.16.2-5-3.40m.jar",
-        "fileDate": "2021-03-21T17:46:01.54Z",
-        "fileLength": 220432,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3246/972/performant-1.16.2-5-3.40m.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2760733505,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2324100637,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 166358247,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "performant.mixins.json",
-            "fingerprint": 3776336619,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "performant.refmap.json",
-            "fingerprint": 4199149320,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2193610889,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.5",
-          "Forge",
-          "1.16.4",
-          "1.16.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "performant-1.16.2-5-3.40m.jar"
-      },
-      "dateInstalled": "2021-04-02T01:59:06.8199422Z",
-      "dateUpdated": "2021-04-02T01:59:06.8224757Z",
-      "dateLastUpdateAttempted": "2021-04-02T01:59:06.8224757Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 379849,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
       "installedFile": {
@@ -21745,24 +21664,6 @@
       "dateInstalled": "2021-04-02T02:01:13.9186923Z",
       "dateUpdated": "2021-04-02T02:01:13.9212255Z",
       "dateLastUpdateAttempted": "2021-04-02T02:01:13.9212255Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 366140,
-      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": null,
-      "dateInstalled": "2021-04-02T02:01:14.3042657Z",
-      "dateUpdated": "2021-04-02T02:01:14.306291Z",
-      "dateLastUpdateAttempted": "2021-04-02T02:01:14.306291Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
