@@ -8721,100 +8721,7 @@
     {
       "addonID": 355458,
       "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": {
-        "id": 3226433,
-        "displayName": "Buzzier Bees 1.16.5 - 3.0.1",
-        "fileName": "buzzier_bees-1.16.5-3.0.1.jar",
-        "fileDate": "2021-03-04T18:21:58.833Z",
-        "fileLength": 841753,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3226/433/buzzier_bees-1.16.5-3.0.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 382216,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1206005041,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 862517098,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "vazkii",
-            "fingerprint": 1532832780,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1919490790,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "buzzier_bees.mixins.json",
-            "fingerprint": 954272105,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 3924506365,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 3067201395,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3564759524,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "buzzier_bees.refmap.json",
-            "fingerprint": 1544506755,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3091123072,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "buzzier_bees-1.16.5-3.0.1.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-04-02T01:59:38.2640581Z",
       "dateUpdated": "2021-04-02T01:59:38.2665909Z",
       "dateLastUpdateAttempted": "2021-04-02T01:59:38.2665909Z",
@@ -13429,24 +13336,6 @@
       "dateInstalled": "2021-04-02T02:00:17.3250464Z",
       "dateUpdated": "2021-04-02T02:00:17.327073Z",
       "dateLastUpdateAttempted": "2021-04-02T02:00:17.327073Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 402616,
-      "gameInstanceID": "9c442d97-e86c-437b-958a-149cdec72e9d",
-      "installedFile": null,
-      "dateInstalled": "2021-04-02T02:00:17.6401055Z",
-      "dateUpdated": "2021-04-02T02:00:17.6431455Z",
-      "dateLastUpdateAttempted": "2021-04-02T02:00:17.6431455Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
