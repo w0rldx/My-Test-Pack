@@ -2,18 +2,11 @@
 # For details/help see: https://github.com/NillerMedDild/ModpackUploader
 
 $CLIENT_MODS = @(
-	"AnimatedRecipeBook",
 	"BetterF3",
-	"biomeinfo",
-	"ClientTweaks",
 	"MouseTweaks",
-	"NeptuneFX",
-	"PickUpNotifier",
 	"ReAuth",
-	"ScreenshotToClipboard",
 	"SimpleDiscordRichPresence",
-	"Toast-Control",
-	"WaterDripSound"
+	"Toast-Control"
 )
 
 $CONFIGS_TO_REMOVE = @(
