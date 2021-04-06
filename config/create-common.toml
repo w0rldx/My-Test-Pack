@@ -6,7 +6,7 @@
 	[worldgen.v2]
 		#
 		#Prevents all worldgen added by Create from taking effect
-		disableWorldGen = false
+		disableWorldGen = true
 		#
 		#Forward caught TileEntityExceptions to the log at debug level.
 		logTeErrors = false
@@ -21,7 +21,7 @@
 			#  <1 to make it a chance.
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
-			frequency = 0
+			frequency = 0.0
 			#No comment
 			#Range: > 0
 			minHeight = 40
@@ -39,7 +39,7 @@
 			#  <1 to make it a chance.
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
-			frequency = 0
+			frequency = 0.0
 			#No comment
 			#Range: > 0
 			minHeight = 10
@@ -57,7 +57,7 @@
 			#  <1 to make it a chance.
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
-			frequency = 0
+			frequency = 0.0
 			#No comment
 			#Range: > 0
 			minHeight = 15
@@ -75,7 +75,7 @@
 			#  <1 to make it a chance.
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
-			frequency = 0
+			frequency = 0.0
 			#No comment
 			#Range: > 0
 			minHeight = 30
@@ -93,7 +93,7 @@
 			#  <1 to make it a chance.
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
-			frequency = 0
+			frequency = 0.0
 			#No comment
 			#Range: > 0
 			minHeight = 20
@@ -111,7 +111,7 @@
 			#  <1 to make it a chance.
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
-			frequency = 0
+			frequency = 0.0
 			#No comment
 			#Range: > 0
 			minHeight = 20
@@ -129,7 +129,7 @@
 			#  <1 to make it a chance.
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
-			frequency = 0
+			frequency = 0.0
 			#No comment
 			#Range: > 0
 			minHeight = 0
